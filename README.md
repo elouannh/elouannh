@@ -37,8 +37,8 @@
 ---
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=PxndxDev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&layout=compact&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200px" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=PxndxDev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&layout=compact&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150px" />
 </div>
 
 ---
