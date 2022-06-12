@@ -56,4 +56,4 @@
 ### 👻 Me contacter
 
 Si vous cherchez à me contacter pour un potentiel projet, veuillez passer par Discord pour l'instant.  
-[Ma Communauté](https://discord.gg/QdhxMvjXxy) | Ou voici mon pseudo: `パンダ☕#0462`
+[Ma Communauté](https://discord.gg/QdhxMvjXxy) | Ou voici mon pseudo: `pandawou#0462`
