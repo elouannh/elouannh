@@ -70,12 +70,3 @@ I can use git for coworking, and I know main commands for manage it directly in 
 <div style="text-align:center">
     <img src="https://komarev.com/ghpvc/?username=PxndxDev&style=flat-square&color=blue" alt=""/>
 </div>
-
-<style>
-    .space-divider {
-        margin-top: 50px;
-    }
-    .space-divider-little {
-        margin-top: 30px;
-    }
-</style>
