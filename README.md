@@ -1,9 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/eYiTd4Ip9D1SdS3esc/giphy.gif" width="100"/>
- 
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=PxndxDev&style=flat-square&color=blue" alt=""/>
-  </div>
   
   <h1>
     Hey there ! 👋
@@ -16,44 +11,71 @@
 </div>
 
 ---
+<div class="space-divider-little"></div>
 
-## 🎏 À propos de moi
+# 📐 I'm a french student who loves programming. There are the languages I use frequently:
+- French
+- English
+- Japanese
 
-## 📐 Je suis un étudiant français encore à l'école. Je peux travailler dans ces langues étrangères:
-- Français 🇫🇷
-- Anglais 🇬🇧
-- Espagnol 🇪🇸
-- Japonais 🇯🇵
+Please, use these languages when you contact me.
 
-## 🎋 Je suis également un développeur full stack :
-- Je maîtrise JavaScript <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175401566248/js.png" width="15px" /> et TypeScript <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660176856989726/typescript.png" width="15px" /> (runtime NodeJs <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175632261120/node-js.png" width="15px" />). 
-- Je sais utiliser Python <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175854534656/python.png" width="15px" />, Java <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175175090176/java.png" width="15px" /> et Golang <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174713683968/go.png" width="15px" />.
-- Je peux utiliser également du C++ <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174185209886/c-.png" width="15px" /> si nécessaire.
-- Je sais utiliser des langages comme HTML <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174965370900/html-5.png" width="15px" />, CSS <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174449455124/css-3.png" width="15px" />, SASS <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660176278188072/sass.png" width="15px" />, mais je ne m'en sers jamais.
-- Concernant les bases de données, je sais utiliser Mongo et Sqlite, mais je suis plus à l'aise avec Sqlite.
-- Je ne travaille que pour des projets qui m'intéressent pour l'instant.
-- Je suis actif sur des projets web principalement, ou lors de la création de jeux.
+<div class="space-divider"></div>
 
+# 🚧 I'm a back-end developer
+<div class="space-divider-little"></div>
+
+## *Programming Languages*
 ---
+The technologies that I use the most:
+
+- JavaScript <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175401566248/js.png" width="15px" /> & TypeScript <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660176856989726/typescript.png" width="15px" /> (runtime NodeJs <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175632261120/node-js.png" width="15px" />).
+
+The technologies that I also master if necessary:
+- Python <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175854534656/python.png" width="15px" />.
+
+The technologies that I'm learning:
+- Java <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175175090176/java.png" width="15px" />, Golang <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174713683968/go.png" width="15px" /> & C++ <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174185209886/c-.png" width="15px" />
+
+<div class="space-divider-little"></div>
+
+## *Other Technologies*
+---
+I can use Express.js for server scripting in web projects. In the front-end side, I can use Pug for views.
+
+The databases technologies that I use are SQLite 3 (*`better-sqlite3`*) with Enmap (*`enmap`*). I'm learning MongoDb.
+
+<div class="space-divider-little"></div>
+
+## *Git Mastery*
+---
+
+I can use git for coworking, and I know main commands for manage it directly in the shell. I can manage releases and branch for projects.
+
+<div class="space-divider-little"></div>
+
+# 🎐 My Work
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=PxndxDev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&layout=compact&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150px" />
 </div>
 
----
+<div class="space-divider"></div>
 
-### 🎐 Mes projets
-
-> Je travaille actuellement sur un bot Discord. Plus d'informations ici: [ObanaiDiscordBot](https://github.com/PxndxDev/ObanaiDiscordBot) (*Je suis particulièrement actif dessus car c'est mon projet principal et que j'utilise les technologies que je maîtrise le mieux.*)  
-
-> J'ai également créé un thème Visual Studio Code (pour le plaisir de créer), vous pouvez le retrouver ici: [KnyVscodeTheme](https://github.com/PxndxDev/KnyVscodeTheme) (*Il n'est plus mis à jour depuis, mais il fonctionne et rien ne m'empêche de le continuer.*)  
-
-#### Pour ce qui est du reste de mes projets, baladez-vous sur mes différents dépôts GitHub, vous trouverez de tout.
+### *I'm actually working on a big project. Obanai Project is a Discord bot with something special... Check here: [Official Obanai Website](https://pxndxdev.gitbook.io/obanaibot)*
 
 ---
 
-### 👻 Me contacter
+<div style="text-align:center">
+    <img src="https://komarev.com/ghpvc/?username=PxndxDev&style=flat-square&color=blue" alt=""/>
+</div>
 
-Si vous cherchez à me contacter pour un potentiel projet, veuillez passer par Discord pour l'instant.  
-[Ma Communauté](https://discord.gg/QdhxMvjXxy)
+<style>
+    .space-divider {
+        margin-top: 50px;
+    }
+    .space-divider-little {
+        margin-top: 30px;
+    }
+</style>
