@@ -1,72 +1,103 @@
-<div id="header" align="center">
-  
-  <h1>
-    Hey there ! 👋
-  </h1>
-  
-</div>
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/983073037001834617/983657211295301632/ezgif.com-gif-maker.gif" />
-</div>
-
----
-<div class="space-divider-little"></div>
-
-# 📐 I'm a french student who loves programming. There are the languages I use frequently:
-- French
-- English
-- Japanese
-
-Please, use these languages when you contact me.
-
-<div class="space-divider"></div>
-
-# 🚧 I'm a back-end developer
-<div class="space-divider-little"></div>
-
-## *Programming Languages*
----
-The technologies that I use the most:
-
-- JavaScript <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175401566248/js.png" width="15px" /> & TypeScript <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660176856989726/typescript.png" width="15px" /> (runtime NodeJs <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175632261120/node-js.png" width="15px" />).
-
-The technologies that I also master if necessary:
-- Python <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175854534656/python.png" width="15px" />.
-
-The technologies that I'm learning:
-- Java <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175175090176/java.png" width="15px" />, Golang <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174713683968/go.png" width="15px" /> & C++ <img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174185209886/c-.png" width="15px" />
-
-<div class="space-divider-little"></div>
-
-## *Other Technologies*
----
-I can use Express.js for server scripting in web projects. In the front-end side, I can use Pug for views.
-
-The databases technologies that I use are SQLite 3 (*`better-sqlite3`*) with Enmap (*`enmap`*). I'm learning MongoDb.
-
-<div class="space-divider-little"></div>
-
-## *Git Mastery*
----
-
-I can use git for coworking, and I know main commands for manage it directly in the shell. I can manage releases and branch for projects.
-
-<div class="space-divider-little"></div>
-
-# 🎐 My Work
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=PxndxDev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&layout=compact&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150px" />
-</div>
-
-<div class="space-divider"></div>
-
-### *I'm actually working on a big project. Obanai Project is a Discord bot with something special... Check here: [Official Obanai Website](https://pxndxdev.gitbook.io/obanaibot)*
+# PxndxDev
 
 ---
 
+###  *~ Pretty little description about myself... ~*
+
+**Who am I?** I'm a pretty funny panda my dear. But I don't eat bamboo, I prefer coding.
+
+**What can I do ?** I can do anything you want. Joke. I can use JavaScript with NodeJS, TypeScript (with NodeJS too), Python, and sometimes Java or GoLang.
+
+**Which things I hate the most ?** I hate front-end. I am good only in back-end management.
+
+⚠️**Which language I speak ?**
+
+- French (native)
+- English (fluent)
+- Spanish (un poquito ;))
+- Japanese (school level)
+
+--- 
+
+## `./pxndxdev/serious_part.txt`
+
+I use **JetBrains** tools for coding and working every day. I use **Git** for version control.
+I can use **GitHub** for sharing my projects. I never work freely; all job deserve remuneration. 
+
+Contact me if you want to work with me. 
+
+## `./pxndxdev/technologies`
+
+<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175401566248/js.png" width="30px" />
+<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660176856989726/typescript.png" width="30px" />
+<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175632261120/node-js.png" width="30px" />
+<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175854534656/python.png" width="30px" />
+<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175175090176/java.png" width="35px" />
+<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174713683968/go.png" width="25px" />
+<img src="https://cdn.discordapp.com/attachments/854638213556600862/1007943755539685376/sqlite.png" width="35px" />
+<img src="https://cdn.discordapp.com/attachments/854638213556600862/1007945158551154698/mongodb_cropped.png" width="18" />
+<img src="https://cdn.discordapp.com/attachments/854638213556600862/1007946655670226984/github-cropped.png" width="35px" />
+
+## `./pxndxdev/github_scoreboard`
+
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=codeSTACKr">
+
+## `./pxndxdev/projects`
+
+[![ObanaiDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ObanaiDiscordBot&show_owner=true&theme=codeSTACKr)]()
+[![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=codeSTACKr)]()
+[![niigata-alpha](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=niigata-alpha&show_owner=true&theme=codeSTACKr)]()
+
+---
+ 
+```py
+# A pretty funny javascript snippet
+```
+```javascript
+class Dev {
+    constructor(name, live, ...languages) {
+        this.name = name;
+        this.languages = languages;
+        this.live = live;
+        this.alive = true;
+    }
+    
+    executeLife() {
+        while (this.alive) {
+            this.live();
+        }
+    }
+}
+```
+```javascript
+class PxndxDev extends Dev {
+    constructor(live) {
+        super("PxndxDev", live, "javascript", "typescript", "python", "golang", "java");
+        this.health = 10;
+        this.motivation = 10;
+    }
+}
+```
+```javascript
+const that = new PxndxDev(
+    function(instance) {
+        if (instance.health <= 0) {
+            this.alive = false;
+        }
+        else if (instance.motivation > 0) {
+            this.health += 1;
+        }
+        else if (instance.motivation <= 0) {
+            this.health -= 1;
+        }
+    }
+);
+```
+```javascript
+that.executeLife();
+```
 <div style="text-align:center">
     <img src="https://komarev.com/ghpvc/?username=PxndxDev&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/twitter/url?label=pxndxdev&style=social&url=https%3A%2F%2Ftwitter%2Fpxndxdev" alt="">
 </div>
