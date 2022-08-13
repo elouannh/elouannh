@@ -28,15 +28,7 @@ Contact me if you want to work with me.
 
 ## `./pxndxdev/technologies`
 
-<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175401566248/js.png" width="30px" />
-<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660176856989726/typescript.png" width="30px" />
-<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175632261120/node-js.png" width="30px" />
-<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175854534656/python.png" width="30px" />
-<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175175090176/java.png" width="35px" />
-<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174713683968/go.png" width="25px" />
-<img src="https://cdn.discordapp.com/attachments/854638213556600862/1007943755539685376/sqlite.png" width="35px" />
-<img src="https://cdn.discordapp.com/attachments/854638213556600862/1007945158551154698/mongodb_cropped.png" width="18" />
-<img src="https://cdn.discordapp.com/attachments/854638213556600862/1007946655670226984/github-cropped.png" width="35px" />
+<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175401566248/js.png" width="30px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660176856989726/typescript.png" width="30px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175632261120/node-js.png" width="30px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175854534656/python.png" width="30px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175175090176/java.png" width="35px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174713683968/go.png" width="25px" /><img src="https://cdn.discordapp.com/attachments/854638213556600862/1007943755539685376/sqlite.png" width="35px" /><img src="https://cdn.discordapp.com/attachments/854638213556600862/1007945158551154698/mongodb_cropped.png" width="18" /><img src="https://cdn.discordapp.com/attachments/854638213556600862/1007946655670226984/github-cropped.png" width="35px" />
 
 ## `./pxndxdev/github_scoreboard`
 
