@@ -93,4 +93,5 @@ that.executeLife();
 <div style="text-align:center">
     <img src="https://komarev.com/ghpvc/?username=PxndxDev&style=flat-square&color=blue" alt=""/>
     <img src="https://img.shields.io/twitter/url?label=pxndxdev&style=social&url=https%3A%2F%2Ftwitter%2Fpxndxdev" alt="">
+    <img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg" alt="">
 </div>
