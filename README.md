@@ -60,7 +60,7 @@ class Dev {
     
     executeLife() {
         while (this.alive) {
-            this.live();
+            this.live(this);
         }
     }
 }
