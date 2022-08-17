@@ -37,7 +37,9 @@ Contact me if you want to work with me.
 
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr">
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=codeSTACKr">
+
 *These statistics has been recorded since 16/08/2022.*
+
 <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=codeSTACKr">
 
 ## `./pxndxdev/projects`
