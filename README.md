@@ -98,7 +98,7 @@ I would like to learn playing Shamisen or Koto. During my free time I get out an
 
 [![ObanaiDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ObanaiDiscordBot&show_owner=true&theme=codeSTACKr)]()
 [![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=codeSTACKr)]()
-[![niigata-alpha](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=niigata-alpha&show_owner=true&theme=codeSTACKr)]()
+[![Niigata](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Niigata&show_owner=true&theme=codeSTACKr)]()
 
 ---
 
