@@ -20,7 +20,7 @@ I have been a back-end developer for 5 years ago. I am looking for a job in the 
 - OpenClassrooms **Python** certification.
 
 
-- *Actually: will start in 1 year Prepatory Class **MP2I** in France (Mathematics, Physics, Engineering, Digital)*
+- *Future of my career: will start in 1 year Prepatory Class **MP2I** in France (Mathematics, Physics, Engineering, Digital)*
 
 ### Experiences & Skills
 
@@ -29,7 +29,7 @@ I have been a back-end developer for 5 years ago. I am looking for a job in the 
 - **Software Engineer** at **ObanaiProject (France)**. I had the responsibility to develop the main structure.
 - **Software Engineer** at **BotMarket (France)**. I had the responsibility to assist developers in their work.
 
-**There are the technologies I use every day:**
+**These are the technologies I use every day:**
 
 - <img src="https://i.imgur.com/1xUExTn.png" width="15"> JavaScript ⭐
 - <img src="https://i.imgur.com/R6DjUi7.png" width="15"> Python ⭐
