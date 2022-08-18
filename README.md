@@ -8,7 +8,7 @@
 
 # Hey ! 👋
 
-I am working as a back-end developer for 5 years ago. I am looking for a job in the continuity of my journey.
+I have been a back-end developer for 5 years ago. I am looking for a job in the continuity of my journey.
 
 ### Diplomas
 
@@ -50,10 +50,10 @@ I am working as a back-end developer for 5 years ago. I am looking for a job in 
 ---
 
 - <img src="https://i.imgur.com/SZON9Ka.png" width="12"> <img src="https://i.imgur.com/TnXsU4b.png" width="12"> <img src="https://i.imgur.com/CSZ5Ov2.png" width="12"> French - perfect mastery (C2)
-- <img src="https://i.imgur.com/YCHBD9L.png" width="12"> <img src="https://i.imgur.com/qRjKhNd.png" width="12"> <img src="https://i.imgur.com/1haa43i.png" width="12"> English speaking - courant (B2)
-- <img src="https://i.imgur.com/p0WnpB9.png" width="12"> Spanish speaking - read, written, talked (A2)
-- <img src="https://i.imgur.com/JwMDtg8.png" width="12"> Chinese speaking - some notions
-- <img src="https://i.imgur.com/TcG6Gyj.png" width="12"> Japanese speaking - some notions (N4)
+- <img src="https://i.imgur.com/YCHBD9L.png" width="12"> <img src="https://i.imgur.com/qRjKhNd.png" width="12"> <img src="https://i.imgur.com/1haa43i.png" width="12"> English - courant (B2)
+- <img src="https://i.imgur.com/p0WnpB9.png" width="12"> Spanish - read, written, talked (A2)
+- <img src="https://i.imgur.com/JwMDtg8.png" width="12"> Chinese - some notions
+- <img src="https://i.imgur.com/TcG6Gyj.png" width="12"> Japanese - some notions (N4)
 
 ### Soft skills
 
