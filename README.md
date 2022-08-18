@@ -53,7 +53,7 @@ I have been a back-end developer for 5 years ago. I am looking for a job in the 
 - <img src="https://i.imgur.com/YCHBD9L.png" width="12"> <img src="https://i.imgur.com/qRjKhNd.png" width="12"> <img src="https://i.imgur.com/1haa43i.png" width="12"> English - courant (B2)
 - <img src="https://i.imgur.com/p0WnpB9.png" width="12"> Spanish - read, written, talked (A2)
 - <img src="https://i.imgur.com/JwMDtg8.png" width="12"> Chinese - some notions
-- <img src="https://i.imgur.com/TcG6Gyj.png" width="12"> Japanese - some notions (N4)
+- <img src="https://i.imgur.com/TcG6Gyj.png" width="12"> Japanese - some notions (<N4)
 
 ### Soft skills
 
