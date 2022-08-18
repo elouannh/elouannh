@@ -26,8 +26,9 @@ I have been a back-end developer for 5 years ago. I am looking for a job in the 
 
 ---
 
-- **Software Engineer** at **ObanaiProject (France)**. I had the responsibility to develop the main structure.
-- **Software Engineer** at **BotMarket (France)**. I had the responsibility to assist developers in their work.
+- **Software Engineer** at **ObanaiProject (France)**. I have the responsibility to develop the main structure and I own the project. (Type: API Application, "Discord Bot")
+- **Software Engineer** at **BotMarket (France)**. I have the responsibility to assist developers in their work. (Type: API Application, "Discord Bot")
+- **Software Engineer** at **Niigata (France)**. I have the responsibility to develop the main structure. (Type: Web Application, "Social Media")
 
 **These are the technologies I use every day:**
 
