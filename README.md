@@ -87,18 +87,18 @@ I would like to learn playing Shamisen or Koto. During my free time I get out an
 ## `./pxndxdev/github_stats`
 
 
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr">
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=codeSTACKr">
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=default">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=default">
 
 *These statistics has been recorded since 16/08/2022.*
 
-<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=codeSTACKr">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=default">
 
 ## `./pxndxdev/github_projects`
 
-[![ObanaiDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ObanaiDiscordBot&show_owner=true&theme=codeSTACKr)]()
-[![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=codeSTACKr)]()
-[![Niigata](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Niigata&show_owner=true&theme=codeSTACKr)]()
+[![ObanaiDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ObanaiDiscordBot&show_owner=true&theme=default)]()
+[![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=default)]()
+[![Niigata](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Niigata&show_owner=true&theme=default)]()
 
 ---
 
