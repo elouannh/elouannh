@@ -1,38 +1,89 @@
-`contact pro: pxndxdev@engineer.com`
+> PxndxDev, 17 years old (27/09/2005)
+> 
+> From France, Mâcon 71000.
+> 
+> Contact me: **pxndxdev@engineer.com** / Twitter: **@pxndxdev**
+> 
+--- 
 
-# PxndxDev
+# Hey ! 👋
 
----
+I am working as a back-end developer for 5 years ago. I am looking for a job in the continuity of my journey.
 
-###  *~ Pretty little description about myself... ~*
-
-**Who am I?** I'm a pretty funny panda my dear. But I don't eat bamboo, I prefer coding.
-
-**What can I do ?** I can do anything you want. Joke. I can use JavaScript with NodeJS, TypeScript (with NodeJS too), Python, and sometimes Java or GoLang.
-
-**Which things I hate the most ?** I hate front-end. I am good only in back-end management.
-
-⚠️**Which language I speak ?**
-
-- French (native)
-- English (fluent)
-- Spanish (un poquito ;))
-- Japanese (school level)
+### Diplomas
 
 --- 
 
-## `./pxndxdev/serious_part.txt`
+- French Baccalaureate with the specialties **Digital & Computer Science** and **Mathematics**.
+- OpenClassrooms **JavaScript** certification.
+- OpenClassrooms **NodeJS, Express.js and MongoDB** certification.
+- OpenClassrooms **Python** certification.
 
-I use **JetBrains** tools for coding and working every day. I use **Git** for version control.
-I can use **GitHub** for sharing my projects. I never work freely; all job deserve remuneration. 
 
-Contact me if you want to work with me. 
+- *Actually: Prepatory Class **MP2I** in France (Mathematics, Physics, Engineering, Digital)*
 
-## `./pxndxdev/technologies`
+### Experiences & Skills
 
-<img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175401566248/js.png" width="30px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660176856989726/typescript.png" width="30px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175632261120/node-js.png" width="30px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175854534656/python.png" width="30px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660175175090176/java.png" width="35px" /><img src="https://cdn.discordapp.com/attachments/976532495543730220/983660174713683968/go.png" width="25px" /><img src="https://cdn.discordapp.com/attachments/854638213556600862/1007943755539685376/sqlite.png" width="35px" /><img src="https://cdn.discordapp.com/attachments/854638213556600862/1007945158551154698/mongodb_cropped.png" width="18" /><img src="https://cdn.discordapp.com/attachments/854638213556600862/1007946655670226984/github-cropped.png" width="35px" />
+---
 
-## `./pxndxdev/github_scoreboard`
+- **Software Engineer** at **ObanaiProject (France)**. I had the responsibility to develop the main structure.
+- **Software Engineer** at **BotMarket (France)**. I had the responsibility to assist developers in their work.
+
+**There are the technologies I use every day:**
+
+- <img src="https://i.imgur.com/1xUExTn.png" width="15"> JavaScript ⭐
+- <img src="https://i.imgur.com/R6DjUi7.png" width="15"> Python ⭐
+- <img src="https://i.imgur.com/thQmc8L.png" width="15"> TypeScript ⭐
+- <img src="https://i.imgur.com/QMwQBYc.png" width="15"> SQLite ⭐
+- <img src="https://i.imgur.com/jsTyeMB.png" width="15"> MongoDB ⭐
+- <img src="https://i.imgur.com/ERkg0DN.png" width="15"> NodeJS ⭐
+- <img src="https://i.imgur.com/Hdkky0C.png" width="15"> GitHub
+- <img src="https://i.imgur.com/sDX1aLw.png" width="15"> Git
+- <img src="https://i.imgur.com/kXIpCEW.png" width="15"> HTML5
+- <img src="https://i.imgur.com/UWo9uKa.png" width="15"> Sass
+- <img src="https://i.imgur.com/A0GhGi4.png" width="15"> CSS3
+- <img src="https://i.imgur.com/MwzkpKi.png" width="15"> Java
+- <img src="https://i.imgur.com/id6ITpC.png" width="30"> GoLang
+
+### Languages spoken
+
+---
+
+- <img src="https://i.imgur.com/SZON9Ka.png" width="12"> <img src="https://i.imgur.com/TnXsU4b.png" width="12"> <img src="https://i.imgur.com/CSZ5Ov2.png" width="12"> French - perfect mastery (C2)
+- <img src="https://i.imgur.com/YCHBD9L.png" width="12"> <img src="https://i.imgur.com/qRjKhNd.png" width="12"> <img src="https://i.imgur.com/1haa43i.png" width="12"> English speaking - courant (B2)
+- <img src="https://i.imgur.com/p0WnpB9.png" width="12"> Spanish speaking - read, written, talked (A2)
+- <img src="https://i.imgur.com/JwMDtg8.png" width="12"> Chinese speaking - some notions
+- <img src="https://i.imgur.com/TcG6Gyj.png" width="12"> Japanese speaking - some notions (N4)
+
+### Soft skills
+
+---
+
+- Solve complex problems ⭐ **Strength**
+- Management
+- Team spirit
+- Emotional intelligence
+- Autonomy
+- Adaptation
+- Judgment and decision-making 🔴 **Weakness**
+
+### Hobbies
+
+---
+
+I love to practise Volleyball. I play it in my volleyball club every week. I am also a manga eater, and an anime lover.
+
+I also love reading traditional books, learning new languages and discover different cultures.
+
+I love programming and coding everything I can, and I love learning new technologies.
+
+I would like to learn playing Shamisen or Koto. During my free time I get out and play with my friends.
+
+---
+
+# GitHub Scoreboard
+
+## `./pxndxdev/github_stats`
 
 
 <img width="500px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr">
@@ -42,60 +93,14 @@ Contact me if you want to work with me.
 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=codeSTACKr">
 
-## `./pxndxdev/projects`
+## `./pxndxdev/github_projects`
 
 [![ObanaiDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ObanaiDiscordBot&show_owner=true&theme=codeSTACKr)]()
 [![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=codeSTACKr)]()
 [![niigata-alpha](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=niigata-alpha&show_owner=true&theme=codeSTACKr)]()
 
 ---
- 
-```py
-# A pretty funny javascript snippet
-```
-```javascript
-class Dev {
-    constructor(name, live, ...languages) {
-        this.name = name;
-        this.languages = languages;
-        this.live = live;
-        this.alive = true;
-    }
-    
-    executeLife() {
-        while (this.alive) {
-            this.live(this);
-        }
-    }
-}
-```
-```javascript
-class PxndxDev extends Dev {
-    constructor(live) {
-        super("PxndxDev", live, "javascript", "typescript", "python", "golang", "java");
-        this.health = 10;
-        this.motivation = 10;
-    }
-}
-```
-```javascript
-const that = new PxndxDev(
-    function(instance) {
-        if (instance.health <= 0) {
-            this.alive = false;
-        }
-        else if (instance.motivation > 0) {
-            this.health += 1;
-        }
-        else if (instance.motivation <= 0) {
-            this.health -= 1;
-        }
-    }
-);
-```
-```javascript
-that.executeLife();
-```
+
 <div style="text-align:center">
     <img src="https://komarev.com/ghpvc/?username=PxndxDev&style=flat-square&color=blue" alt=""/>
     <img src="https://img.shields.io/twitter/url?label=pxndxdev&style=social&url=https%3A%2F%2Ftwitter%2Fpxndxdev" alt="">
