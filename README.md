@@ -1,4 +1,4 @@
-> PxndxDev, 17 years old (27/09/2005)
+> PxndxDev, 16 years old (27/09/2005)
 > 
 > From France, Mâcon 71000.
 > 
