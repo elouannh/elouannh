@@ -20,7 +20,7 @@ I am working as a back-end developer for 5 years ago. I am looking for a job in 
 - OpenClassrooms **Python** certification.
 
 
-- *Actually: Prepatory Class **MP2I** in France (Mathematics, Physics, Engineering, Digital)*
+- *Actually: will start in 1 year Prepatory Class **MP2I** in France (Mathematics, Physics, Engineering, Digital)*
 
 ### Experiences & Skills
 
