@@ -1,4 +1,4 @@
-`This document was written in english, so please consider it if your browser translate it in another language.`
+`This document was written in english, so please consider it if your browser translates it in another language.`
 
 > PxndxDev, 16 years old (27/09/2005)
 > 
