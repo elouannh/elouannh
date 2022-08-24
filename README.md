@@ -1,6 +1,8 @@
 ```bash
 pxndx@about:~$ sudo apt update
+...
 pxndx@about:~$ sudo apt install mlocate
+...
 pxndx@about:~$ locate hobbies
 /tech/programming/javascript.js
 /tech/programming/typescript.ts
