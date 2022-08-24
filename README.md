@@ -6,10 +6,10 @@ pxndx@about:~$ sudo apt install mlocate
 pxndx@about:~$ locate hobbies
 /tech/programming/javascript.js
 /tech/programming/typescript.ts
-/tech/programming/javascript.js
+/tech/programming/cplusplus.cpp
 /tech/programming/golang.go
-/tech/cybersec/hacking.py
-/tech/cybersec/hacking.c
+/tech/cybersec/pentesting.py
+/tech/cybersec/ethical_hacking.c
 /perso/mangas.pdf
 /perso/animes.mp4
 /perso/music.mp3
