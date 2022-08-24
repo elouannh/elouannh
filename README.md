@@ -24,18 +24,18 @@ Swap:       X        X        X
 ## `./pxndxdev/github_stats`
 
 
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=default">
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=default">
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=midnight-purple">
 
 *These statistics has been recorded since 16/08/2022.*
 
-<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=default">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=midnight-purple">
 
 ## `./pxndxdev/github_projects`
 
-[![ObanaiDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ObanaiDiscordBot&show_owner=true&theme=default)]()
-[![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=default)]()
-[![Niigata](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Niigata&show_owner=true&theme=default)]()
+[![ObanaiDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ObanaiDiscordBot&show_owner=true&theme=midnight-purple)]()
+[![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=midnight-purple)]()
+[![Niigata](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Niigata&show_owner=true&theme=midnight-purple)]()
 
 ---
 
