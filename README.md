@@ -1,90 +1,25 @@
-`This document was written in english, so please consider it if your browser translates it in another language.`
-
-> PxndxDev, 16 years old (27/09/2005)
-> 
-> From France, Mâcon 71000.
-> 
-> Contact me: **pxndxdev@engineer.com** / Twitter: **@pxndxdev**
-> 
---- 
-
-# Hey ! 👋
-
-I have been a back-end developer for 5 years ago. I am looking for a job in the continuity of my journey.
-
-### Diplomas
-
---- 
-
-- French Baccalaureate with the specialties **Digital & Computer Science** and **Mathematics**.
-- OpenClassrooms **JavaScript** certification.
-- OpenClassrooms **NodeJS, Express.js and MongoDB** certification.
-- OpenClassrooms **Python** certification.
-
-
-- *Future of my career: will start in 1 year Prepatory Class **MP2I** in France (Mathematics, Physics, Engineering, Digital)*
-
-### Experiences & Skills
-
----
-
-- **Software Engineer** at **ObanaiProject (France)**. I have the responsibility to develop the main structure and I own the project. (Type: API Application, "Discord Bot")
-- **Software Engineer** at **BotMarket (France)**. I have the responsibility to assist developers in their work. (Type: API Application, "Discord Bot")
-- **Software Engineer** at **Niigata (France)**. I have the responsibility to develop the main structure. (Type: Web Application, "Social Media")
-
-**These are the technologies I use every day:**
-
-- <img src="https://i.imgur.com/1xUExTn.png" width="15"> JavaScript ⭐
-- <img src="https://i.imgur.com/R6DjUi7.png" width="15"> Python ⭐
-- <img src="https://i.imgur.com/thQmc8L.png" width="15"> TypeScript ⭐
-- <img src="https://i.imgur.com/QMwQBYc.png" width="15"> SQLite ⭐
-- <img src="https://i.imgur.com/jsTyeMB.png" width="15"> MongoDB ⭐
-- <img src="https://i.imgur.com/ERkg0DN.png" width="15"> NodeJS ⭐
-- <img src="https://i.imgur.com/Hdkky0C.png" width="15"> GitHub
-- <img src="https://i.imgur.com/sDX1aLw.png" width="15"> Git
-- <img src="https://i.imgur.com/kXIpCEW.png" width="15"> HTML5
-- <img src="https://i.imgur.com/UWo9uKa.png" width="15"> Sass
-- <img src="https://i.imgur.com/A0GhGi4.png" width="15"> CSS3
-- <img src="https://i.imgur.com/MwzkpKi.png" width="15"> Java
-- <img src="https://i.imgur.com/id6ITpC.png" width="30"> GoLang
-
-### Languages spoken
-
----
-
-- <img src="https://i.imgur.com/SZON9Ka.png" width="12"> <img src="https://i.imgur.com/TnXsU4b.png" width="12"> <img src="https://i.imgur.com/CSZ5Ov2.png" width="12"> French - perfect mastery (C2)
-- <img src="https://i.imgur.com/YCHBD9L.png" width="12"> <img src="https://i.imgur.com/qRjKhNd.png" width="12"> <img src="https://i.imgur.com/1haa43i.png" width="12"> English - courant (B2)
-- <img src="https://i.imgur.com/p0WnpB9.png" width="12"> Spanish - read, written, talked (A2)
-- <img src="https://i.imgur.com/JwMDtg8.png" width="12"> Chinese - some notions
-- <img src="https://i.imgur.com/TcG6Gyj.png" width="12"> Japanese - some notions (<N4)
-
-### Soft skills
-
----
-
-- Solve complex problems ⭐ **Strength**
-- Management
-- Team spirit
-- Emotional intelligence
-- Autonomy
-- Adaptation
-- Judgment and decision-making 🔴 **Weakness**
-
-### Hobbies
-
----
-
-I love to practise Volleyball. I play it in my volleyball club every week. I am also a manga eater, and an anime lover.
-
-I also love reading traditional books, learning new languages and discover different cultures.
-
-I love programming and coding everything I can, and I love learning new technologies.
-
-I would like to learn playing Shamisen or Koto. During my free time I get out and play with my friends.
-
----
-
-# GitHub Scoreboard
+```bash
+pxndx@about:~$ sudo apt update
+pxndx@about:~$ sudo apt install mlocate
+pxndx@about:~$ locate hobbies
+/tech/programming/javascript.js
+/tech/programming/typescript.ts
+/tech/programming/javascript.js
+/tech/programming/golang.go
+/tech/cybersec/hacking.py
+/tech/cybersec/hacking.c
+/perso/mangas.pdf
+/perso/animes.mp4
+/perso/music.mp3
+pxndx@about:~$ locate projects
+/ObanaiDiscordBot
+/Niigata
+/Fantasy-Idle-Quest
+pxndx@about:~$ free --projects-memory
+        total     used     free     shared     buff/cache     available
+Mem:        3        3        0          0              0             0
+Swap:       X        X        X
+```
 
 ## `./pxndxdev/github_stats`
 
