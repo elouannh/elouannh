@@ -7,6 +7,7 @@ pxndx@about:~$ locate hobbies
 /tech/programming/javascript.js
 /tech/programming/typescript.ts
 /tech/programming/cplusplus.cpp
+/tech/programming/c.c
 /tech/programming/golang.go
 /tech/cybersec/pentesting.py
 /tech/cybersec/ethical_hacking.c
