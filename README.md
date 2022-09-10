@@ -36,8 +36,10 @@ Swap:       X        X        X
 ## `./pxndxdev/github_projects`
 
 [![ObanaiDiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ObanaiDiscordBot&show_owner=true&theme=midnight-purple)]()
-[![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=midnight-purple)]()
 [![Niigata](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Niigata&show_owner=true&theme=midnight-purple)]()
+[![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=midnight-purple)]()
+[![Jappy](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Jappy&show_owner=true&theme=midnight-purple)]()
+[![Classeur NSI](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=ClasseurNSI&show_owner=true&theme=midnight-purple)]()
 
 ---
 
