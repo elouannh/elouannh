@@ -1,28 +1,3 @@
-```bash
-pxndx@about:~$ sudo apt update
-...
-pxndx@about:~$ sudo apt install mlocate
-...
-pxndx@about:~$ locate hobbies
-/tech/programming/javascript.js
-/tech/programming/typescript.ts
-/tech/programming/cplusplus.cpp
-/tech/programming/c.c
-/tech/programming/golang.go
-/tech/cybersec/pentesting.py
-/tech/cybersec/ethical_hacking.c
-/perso/mangas.pdf
-/perso/animes.mp4
-/perso/music.mp3
-pxndx@about:~$ locate projects
-/ObanaiDiscordBot
-/Niigata
-/Fantasy-Idle-Quest
-pxndx@about:~$ free --projects-memory
-        total     used     free     shared     buff/cache     available
-Mem:        3        3        0          0              0             0
-Swap:       X        X        X
-```
 
 ## `./pxndxdev/github_stats`
 
