@@ -1,6 +1,8 @@
 ## `./pxndxdev/github_projects`
 
-📍 [![Obanai Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=ObanaiBot&repo=ObanaiDiscordBot&show_owner=true&theme=midnight-purple)]()
+📍
+
+[![Obanai Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=ObanaiBot&repo=ObanaiDiscordBot&show_owner=true&theme=midnight-purple)]()
 
 
 [![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=midnight-purple)]()
