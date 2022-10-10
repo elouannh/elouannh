@@ -1,12 +1,15 @@
 ## Developer at @ObanaiBot
 
-<a href="https://github.com/ObanaiBot"><img height="150px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=solarized-light](https://github-readme-stats.vercel.app/api/pin/?username=ObanaiBot&repo=ObanaiDiscordBot&show_owner=true&theme=solarized-light)"></a>
+<a href="https://github.com/ObanaiBot">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=solarized-light">
+</a>
 
 ## `./pxndxdev/github_stats`
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light"> ~ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=solarized-light">
 
 *Last two weeks stats:*
+
 <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=solarized-light">
 
 ---
