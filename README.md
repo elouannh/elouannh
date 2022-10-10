@@ -1,21 +1,13 @@
-## `./pxndxdev/github_projects`
+## Developer at @ObanaiBot
 
-📍
-
-[![Obanai Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=ObanaiBot&repo=ObanaiDiscordBot&show_owner=true&theme=midnight-purple)]()
-
-
-[![Pandatoolbox](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Pandatoolbox&show_owner=true&theme=midnight-purple)]()
-[![YorBot](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=YorBot&show_owner=true&theme=midnight-purple)]()
-[![Niigata](https://github-readme-stats.vercel.app/api/pin/?username=PxndxDev&repo=Niigata&show_owner=true&theme=midnight-purple)]()
+<a href="https://github.com/ObanaiBot"><img height="150px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=solarized-light](https://github-readme-stats.vercel.app/api/pin/?username=ObanaiBot&repo=ObanaiDiscordBot&show_owner=true&theme=solarized-light)"></a>
 
 ## `./pxndxdev/github_stats`
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"> ~ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=midnight-purple">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=PxndxDev&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light"> ~ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PxndxDev&langs_count=10&layout=compact&theme=solarized-light">
 
-*These statistics has been recorded since 16/08/2022. It takes into account only the last 2 weeks since the day you view it.*
-
-<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=midnight-purple">
+*Last two weeks stats:*
+<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=solarized-light">
 
 ---
 
