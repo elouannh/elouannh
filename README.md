@@ -9,10 +9,10 @@ I am a french based developer. Regular user of Object Oriented Programming. Love
 - Java
 
 <a href="https://github.com/ObanaiBot">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxndanyu&langs_count=10&layout=compact&theme=solarized-light">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouann-h&langs_count=10&layout=compact&theme=solarized-light">
 </a>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Pxndanyu&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light"> ~ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxndanyu&langs_count=10&layout=compact&theme=solarized-light">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=elouann-h&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-light"> ~ <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouann-h&langs_count=10&layout=compact&theme=solarized-light">
 
 *Last two weeks stats:*
 
