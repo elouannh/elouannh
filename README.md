@@ -1,10 +1,10 @@
 ## Who I am ?
 
 I am a french based developer. Regular user of Object Oriented Programming.
-- JavaScript
-- Python
 - C
 - C++
+- JavaScript
+- Python
 - Golang
 - Java
 
