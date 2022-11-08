@@ -23,7 +23,7 @@ I am a student and a future engineer.
 | <img src="https://i.imgur.com/KCPM1Og.png" width="30px"/> GoLang              | ⭐⭐⚪⚪⚪ | **70%**  |
 | <img src="https://i.imgur.com/MwzkpKi.png" width="30px"/> Java                | ⭐⭐⚪⚪⚪ | **70%**  |
 | <img src="https://i.imgur.com/tYUDEIn.png" width="30px"/> C++                 | ⭐⚪⚪⚪⚪ | **90%**  |
-| <img src="https://i.imgur.com/vjM4X6W.png" width="30px"/> Pug Engine          | ⭐⚪⚪⚪⚪ | **90%**  |
+| <img src="https://i.imgur.com/vjM4X6W.png" width="30px"/> Pug Engine          | ⭐⚪⚪⚪⚪ | **40%**  |
 
 ## Languages 🌍
 
