@@ -19,11 +19,11 @@ I am a student and a future engineer.
 | <img src="https://i.imgur.com/Hdkky0C.png" width="30px"/> GitHub              | ⭐⭐⭐⭐⚪ | **100%** |
 | <img src="https://i.imgur.com/jsTyeMB.png" width="30px"/> MongoDB             | ⭐⭐⭐⚪⚪ | **80%**  |
 | <img src="https://i.imgur.com/UWo9uKa.png" width="30px"/> Sass                | ⭐⭐⭐⚪⚪ | **50%**  |
-| <img src="https://i.imgur.com/X48rSkK.png" width="30px"/> C                   | ⭐⭐⚪⚪⚪ | **100%** |
-| <img src="https://i.imgur.com/KCPM1Og.png" width="30px"/> GoLang              | ⭐⭐⚪⚪⚪ | **70%**  |
-| <img src="https://i.imgur.com/MwzkpKi.png" width="30px"/> Java                | ⭐⭐⚪⚪⚪ | **70%**  |
-| <img src="https://i.imgur.com/tYUDEIn.png" width="30px"/> C++                 | ⭐⚪⚪⚪⚪ | **90%**  |
-| <img src="https://i.imgur.com/vjM4X6W.png" width="30px"/> Pug Engine          | ⭐⚪⚪⚪⚪ | **40%**  |
+| <img src="https://i.imgur.com/X48rSkK.png" width="30px"/> C                   | ⭐⭐⭐⚪⚪ | **100%** |
+| <img src="https://i.imgur.com/KCPM1Og.png" width="30px"/> GoLang              | ⭐⭐⭐⚪⚪ | **70%**  |
+| <img src="https://i.imgur.com/MwzkpKi.png" width="30px"/> Java                | ⭐⭐⭐⚪⚪ | **70%**  |
+| <img src="https://i.imgur.com/tYUDEIn.png" width="30px"/> C++                 | ⭐⭐⚪⚪⚪ | **90%**  |
+| <img src="https://i.imgur.com/vjM4X6W.png" width="30px"/> Pug Engine          | ⭐⭐⚪⚪⚪ | **40%**  |
 
 ## Languages 🌍
 
