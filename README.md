@@ -7,23 +7,16 @@ I am a student and a future software engineer.
 
 ## Technologies I use :tea:
 
-| Name                                                                          | Mastery     |   Love   |
-| ----------------------------------------------------------------------------- | ----------  | -------- |
-| <img src="https://i.imgur.com/1xUExTn.png" width="30px"/> JavaScript          | ⭐⭐⭐⭐⭐ | **100%** |
-| <img src="https://i.imgur.com/QMwQBYc.png" width="30px"/> SQLite (Knex/Enmap) | ⭐⭐⭐⭐⭐ | **100%** |
-| <img src="https://i.imgur.com/ERkg0DN.png" width="30px"/> NodeJs              | ⭐⭐⭐⭐⭐ | **100%** |
-| <img src="https://i.imgur.com/R6DjUi7.png" width="30px"/> Python              | ⭐⭐⭐⭐⭐ | **90%**  |
-| <img src="https://i.imgur.com/kXIpCEW.png" width="30px"/> HTML5               | ⭐⭐⭐⭐⭐ | **10%**  |
-| <img src="https://i.imgur.com/A0GhGi4.png" width="30px"/> CSS3                | ⭐⭐⭐⭐⭐ | **10%**  |
-| <img src="https://i.imgur.com/thQmc8L.png" width="30px"/> TypeScript          | ⭐⭐⭐⭐⚪ | **100%** |
-| <img src="https://i.imgur.com/Hdkky0C.png" width="30px"/> GitHub              | ⭐⭐⭐⭐⚪ | **100%** |
-| <img src="https://i.imgur.com/jsTyeMB.png" width="30px"/> MongoDB             | ⭐⭐⭐⚪⚪ | **80%**  |
-| <img src="https://i.imgur.com/UWo9uKa.png" width="30px"/> Sass                | ⭐⭐⭐⚪⚪ | **50%**  |
-| <img src="https://i.imgur.com/X48rSkK.png" width="30px"/> C                   | ⭐⭐⭐⚪⚪ | **100%** |
-| <img src="https://i.imgur.com/KCPM1Og.png" width="30px"/> GoLang              | ⭐⭐⭐⚪⚪ | **70%**  |
-| <img src="https://i.imgur.com/MwzkpKi.png" width="30px"/> Java                | ⭐⭐⭐⚪⚪ | **70%**  |
-| <img src="https://i.imgur.com/tYUDEIn.png" width="30px"/> C++                 | ⭐⭐⚪⚪⚪ | **90%**  |
-| <img src="https://i.imgur.com/vjM4X6W.png" width="30px"/> Pug Engine          | ⭐⭐⚪⚪⚪ | **40%**  |
+|Name|Mastery|Love|Name|Mastery|Love|
+|-|-|-|-|-|-|
+|<img src="https://i.imgur.com/1xUExTn.png" width="30px"/> JavaScript|⭐⭐⭐⭐⭐|**100%**|<img src="https://i.imgur.com/QMwQBYc.png" width="30px"/> SQLite (Knex/Enmap)|⭐⭐⭐⭐⭐|**100%**|
+|<img src="https://i.imgur.com/ERkg0DN.png" width="30px"/> NodeJs|⭐⭐⭐⭐⭐|**100%**|<img src="https://i.imgur.com/R6DjUi7.png" width="30px"/> Python|⭐⭐⭐⭐⭐|**90%**|
+|<img src="https://i.imgur.com/kXIpCEW.png" width="30px"/> HTML5|⭐⭐⭐⭐⭐|**10%**|<img src="https://i.imgur.com/A0GhGi4.png" width="30px"/> CSS3|⭐⭐⭐⭐⭐|**10%**|
+|<img src="https://i.imgur.com/thQmc8L.png" width="30px"/> TypeScript|⭐⭐⭐⭐⚪|**100%**|<img src="https://i.imgur.com/Hdkky0C.png" width="30px"/> GitHub|⭐⭐⭐⭐⚪|**100%**|
+|<img src="https://i.imgur.com/jsTyeMB.png" width="30px"/> MongoDB|⭐⭐⭐⚪⚪|**80%**|<img src="https://i.imgur.com/UWo9uKa.png" width="30px"/> Sass|⭐⭐⭐⚪⚪|**50%**|
+|<img src="https://i.imgur.com/X48rSkK.png" width="30px"/> C|⭐⭐⭐⚪⚪|**100%**|<img src="https://i.imgur.com/KCPM1Og.png" width="30px"/> GoLang|⭐⭐⭐⚪⚪|**70%**|
+|<img src="https://i.imgur.com/MwzkpKi.png" width="30px"/> Java|⭐⭐⭐⚪⚪|**70%**|<img src="https://i.imgur.com/tYUDEIn.png" width="30px"/> C++|⭐⭐⚪⚪⚪|**90%**|
+|<img src="https://i.imgur.com/vjM4X6W.png" width="30px"/> Pug Engine|⭐⭐⚪⚪⚪|**40%**|
 
 ## Languages 🌍
 
