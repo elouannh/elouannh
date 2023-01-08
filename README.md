@@ -2,8 +2,8 @@
 
 # Hello ! :coffee:
 
-I am Elouann, a panda with a computer. I am a back-end developer and passionate of cybersecurity. I am currently living in France for my studies, and I would like to travel the world soon !
-I am a student and a future engineer.
+I am Elouann, a coder a computer. I am a back-end developer and passionate of cybersecurity too. I am currently living in France for my studies, and I would like to travel the world soon !
+I am a student and a future software engineer.
 
 ## Technologies I use :tea:
 
