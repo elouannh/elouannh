@@ -1,5 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/1012372287640567948/1034734723022467082/photo-1619410283995-43d9134e7656crop.jpg"/>
 
+> I'm currently reworking on this readme.
+
 # Hello ! :coffee:
 
 I am Elouann, a coder with a computer. I am a back-end developer and passionate of cybersecurity too. I am currently living in France for my studies, and I would like to travel the world soon !
@@ -18,7 +20,8 @@ I am a student and a future software engineer.
 |<img src="https://i.imgur.com/MwzkpKi.png" width="30px"/> Java|⭐⭐⭐⚪⚪|**70%**|<img src="https://i.imgur.com/tYUDEIn.png" width="30px"/> C++|⭐⭐⚪⚪⚪|**90%**|
 |<img src="https://i.imgur.com/vjM4X6W.png" width="30px"/> Pug Engine|⭐⭐⚪⚪⚪|**40%**|
 
-## Languages 🌍
+## Languages 🌍![image](https://user-images.githubusercontent.com/80158828/211870348-43ffa159-29d5-4d29-a184-000c6c925378.png)
+
 
 I can mainly speak French and English, however I can also communicate in Spanish. As for my personal learning, I am learning Japanese and Chinese.
 
@@ -26,12 +29,7 @@ I can mainly speak French and English, however I can also communicate in Spanish
 
 I am developer at @BotMarket as a back-end developer, and I own @ObanaiBot. Forthwith I am available for being hired for a paid freelance position.
 
-# Here's my stats :bar_chart: 
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=elouann-h&show_icons=true&include_all_commits=true&count_private=true&theme=light">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouann-h&langs_count=10&layout=compact&theme=light">
-
-*Last two weeks stats:*
+# Here's my last two weeks stats :bar_chart: 
 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=pxndxdev&theme=light">
 
