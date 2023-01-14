@@ -20,8 +20,7 @@ I am a student and a future software engineer.
 |<img src="https://i.imgur.com/MwzkpKi.png" width="30px"/> Java|⭐⭐⭐⚪⚪|**70%**|<img src="https://i.imgur.com/tYUDEIn.png" width="30px"/> C++|⭐⭐⚪⚪⚪|**90%**|
 |<img src="https://i.imgur.com/vjM4X6W.png" width="30px"/> Pug Engine|⭐⭐⚪⚪⚪|**40%**|
 
-## Languages 🌍![image](https://user-images.githubusercontent.com/80158828/211870348-43ffa159-29d5-4d29-a184-000c6c925378.png)
-
+## Languages 🌍!
 
 I can mainly speak French and English, however I can also communicate in Spanish. As for my personal learning, I am learning Japanese and Chinese.
 
