@@ -2,7 +2,7 @@
 
 I'm a student who loves programming. I speak English and French, but I can also speak Spanish, Japanese and Chinese.
 
-Looking for experiences to fill my résumé.
+Looking for experiences to fill in my CV.
 
 ## Technologies I use :tea:
 
