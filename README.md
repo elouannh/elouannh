@@ -1,6 +1,6 @@
 # Hello ! :coffee:
 
-I'm a French software student and I am interested in programming in its entirety. I am a back-end developer who use C#, TypeScript/JavaScript \[NodeJS\], Kotlin and Java.
+I'm a French software student and I am interested in programming in its entirety. I am a back-end developer who use C#, C, TypeScript/JavaScript \[NodeJS\], Kotlin and Java.
 Positions:
 - Bot Developer at @BotMarket → [Showcase](https://www.botmarket.ovh/) | [Shop](https://customers.botmarket.ovh/)
 - Founder of @KyatsuJS → [Guide](https://kyatsujs.gitbook.io/guide/) \[currently in work\]
