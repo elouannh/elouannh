@@ -29,7 +29,5 @@ Positions (current or past):
 
 <img src="https://komarev.com/ghpvc/?username=PxndxDev&style=flat-square&color=blue" alt=""/>
 
-# Time spent on my last project, Mariko:
-<a href="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe/project/7b89edd7-db1b-4a7f-94d2-62465fdb5484"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe/project/7b89edd7-db1b-4a7f-94d2-62465fdb5484.svg" alt="wakatime"></a> + 
-<a href="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe/project/5dea2c3f-a5f9-4cc5-929c-c58dd6fdf3d7"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe/project/5dea2c3f-a5f9-4cc5-929c-c58dd6fdf3d7.svg" alt="wakatime"></a> + 
-<a href="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe/project/a9253d16-86a7-49ab-ac37-706cfe9894a2"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe/project/a9253d16-86a7-49ab-ac37-706cfe9894a2.svg" alt="wakatime"></a>
+# Time spent on my projects:
+<a href="https://wakatime.com/@1f18b09f-6cf2-4aa1-a256-b88b4b5616fe"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg" alt="Total time coded since Aug 13 2022" /></a>
