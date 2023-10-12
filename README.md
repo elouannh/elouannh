@@ -11,6 +11,9 @@ class Skill {
 }
 
 namespace MySkills {
+  /**
+   * Do not worry, the following script is here in a joke purpose.
+   */
   export const TypeScript: Skill = new Skill("I use it as my main language for back-end and server-side programming.");
   export const JavaScript: Skill = new Skill("I use it as a complementary language for TypeScript.");
   export const C: Skill = new Skill("I use it for making softwares.");
