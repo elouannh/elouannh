@@ -2,13 +2,23 @@
 
 My name is Elouann, also known as Panda (my pseudonyme on social medias).
 I'm a French software student and I am interested in programming in its entirety. I am a back-end developer who use plenty of languages.
-```json
-{
-  "C#": "I use it for mobile applications (iOS/Android).",
-  "C": "I use it for making softwares.",
-  "TypeScript/JavaScript with NodeJS": "I use it as my main language for back-end and server-side programming.",
-  "Kotlin": "I use it for Android apps.",
-  "Java": "I use it for Android apps (with Kotlin), softwares and Minecraft mods.",
+```ts
+class Skill {
+  public readonly desc: string;
+  constructor(desc: string) {
+    this.desc = desc;
+  }
+}
+
+namespace MySkills {
+  export const TypeScript: Skill = new Skill("I use it as my main language for back-end and server-side programming.");
+  export const JavaScript: Skill = new Skill("I use it as a complementary language for TypeScript.");
+  export const C: Skill = new Skill("I use it for making softwares.");
+  export const CSharp: Skill = new Skill("I use it for mobile applications (iOS/Android), especially with Xamarin.");
+  export const Python: Skill = new Skill("I use it for making softwares.");
+  export const Dart: Skill = new Skill("I use it for building Android & iOS apps with Flutter.");
+  export const Kotlin: Skill = new Skill("I use it for Android apps, often paired with Java.");
+  export const Java: Skill = new Skill("I use it for Android apps (with Kotlin), softwares and Minecraft mods.");
 }
 ```
 I am used to program for 5 years now. I got the French Baccalauréat and I am studying now at Éstiam School.
