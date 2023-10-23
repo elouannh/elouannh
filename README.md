@@ -24,7 +24,7 @@ namespace MySkills {
   export const Java: Skill = new Skill("I use it for Android apps (with Kotlin), softwares and Minecraft mods.");
 }
 ```
-I am used to program for 5 years now. I got the French Baccalauréat and I am studying now at Éstiam School.
+I am used to program for 5 years now. I got the French Baccalauréat and I am currently studying at Éstiam School.
 
 Positions (current or past):
 ---
