@@ -127,7 +127,7 @@
 
 ###
 
-<h1 align="left">Softwares:</h1>
+<h1 align="left">Softwares & tools:</h1>
 
 ###
 
