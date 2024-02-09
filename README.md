@@ -18,13 +18,16 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" width="500" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elouannh&locale=en&langs_count=21&theme=dracula" width="500" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" width="700" alt="languages graph"  />
 </div>
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elouannh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elouannh&locale=en&langs_count=21&theme=dracula" width="700" alt="languages graph"  />
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=elouannh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="700" alt="stats graph"  />
+</div>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="700" alt="streak graph"  />
 </div>
 
 ###
