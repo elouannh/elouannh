@@ -1,8 +1,9 @@
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1012372287640567948/1205461432133746718/cdfe49c27c7a9a84cc6e3a372c82797e.jpg?ex=65d87471&is=65c5ff71&hm=08035e1a39b11cfe874aa3fc304cc4c139f034303d9459c9e9c9577e4015cb1a&"  />
+<img align="left" height="230" src="https://cdn.discordapp.com/attachments/1012372287640567948/1205461432133746718/cdfe49c27c7a9a84cc6e3a372c82797e.jpg?ex=65d87471&is=65c5ff71&hm=08035e1a39b11cfe874aa3fc304cc4c139f034303d9459c9e9c9577e4015cb1a&"  />
 
 ###
 
 <h1 align="left">Hello, I am Elouann!</h1>
+<img src="https://lanyard.cnrad.dev/api/1146145475683164273?bg=282c34&borderRadius=5px&hideProfile=true" height="140" />
 
 ###
 
