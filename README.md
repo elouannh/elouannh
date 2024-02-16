@@ -1,7 +1,3 @@
-<img align="left" height="230" src="https://cdn.discordapp.com/attachments/1012372287640567948/1208178922475360306/neptune.jpg?ex=65e2574d&is=65cfe24d&hm=ecdd4a2419049cc21f692562db635032923c1916bd3d544304b8b21234ac65e1&"  />
-
-###
-
 <h1 align="left">Hello, I am Elouann!</h1>
 <img src="https://lanyard.cnrad.dev/api/1146145475683164273?bg=282c34&borderRadius=5px&hideProfile=true" height="140" />
 
