@@ -1,29 +1,34 @@
 <h1 align="left">Hello, I am Elouann!</h1>
-<img src="https://lanyard.cnrad.dev/api/1146145475683164273?bg=282c34&borderRadius=5px&hideProfile=true" height="140" />
 
 ###
 
+<img align="left" src="https://lanyard.cnrad.dev/api/1146145475683164273?bg=282c34&borderRadius=5px&hideProfile=true" height="130" />
 <p align="left">I am a student developer based in France. I am working on becoming full-stack.<br>I love discovering things and learning new technologies.<br><br>You can check my portfolio <a href="https//elouann.space">here</a>.</p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elouannh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<br>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" width="700" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elouannh&radius=16&theme=react&area=true&order=5" height="280" alt="activity-graph graph"  />
 </div>
+
+<a href="https://me.elouann.space">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=react&rank_icon=github" />
+</a>
+<a href="https://me.elouann.space">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=react" />
+</a>
+
+### 
+
+<a href="https://me.elouann.space">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elouannh&locale=en&langs_count=20&theme=react&card_width=2000" width="800" alt="languages graph"  />
+</a>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elouannh&locale=en&langs_count=21&theme=dracula" width="700" alt="languages graph"  />
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elouannh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="700" alt="stats graph"  />
-</div>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="700" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
 </div>
 
 ###
