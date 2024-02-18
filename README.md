@@ -25,7 +25,7 @@
 ### 
 
 <a href="https://me.elouann.space">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elouannh&locale=en&langs_count=20&theme=react&card_width=2000" width="800" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=elouannh&locale=en&langs_count=20&theme=react" width="800" alt="languages graph"  />
 </a>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
