@@ -13,7 +13,7 @@
 - ⚡ Fun fact: **JetBrains > everything**
 
 - 🎆 Planning to live in **Japan**
-<p align="left"><br><br>You can check my portfolio <a href="https//elouann.space">here</a>.</p>
+<p align="left"><br><br>You can check my portfolio <a href="https://elouann.space">here</a>.</p>
 
 ###
 
@@ -49,7 +49,9 @@ src="https://media.botmarket.ovh/uf2f5i.png" width="55px"/>
 
 ###
 
-<p align="left">If you want to contact me, please go through Discord or X (oldly Twitter). Moreover, you can see my WakaTime stats (coding time, etc) here: [**my WakaTime**](https://wakatime.com/@elouannh).</p>
+If you want to contact me, please go through Discord or X (oldly Twitter). Moreover, you can see my WakaTime stats (coding time, etc) here: **<a href="https://wakatime.com/@elouannh">my WakaTime</a>**.
+
+### WakaTime recording started in August of 2022.
 
 ###
 
