@@ -66,13 +66,14 @@ src="https://media.botmarket.ovh/uf2f5i.png" width="55px"/>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elouannh&radius=16&theme=tokyo-night&area=true&order=5" height="280" alt="activity-graph graph"  />
 </div>
-
-<a href="https://me.elouann.space">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=tokyonight&rank_icon=github" />
-</a>
-<a href="https://me.elouann.space">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
+<div>
+  <a href="https://me.elouann.space">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=tokyonight&rank_icon=github" />
+  </a>
+  <a href="https://me.elouann.space">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  </a>
+</div>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
 </div>
