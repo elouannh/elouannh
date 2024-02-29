@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [**Mariko**](https://github.com/MarikoBot) and on my [**Portfolio**](https://elouann.space)
 
-- 🌱 I’m currently learning **Flask + PostgreSQL & VueJS with Docker**
+- 🌱 At present, I am learning **Flask + PostgreSQL & VueJS with Docker**
 <img align="right" src="https://lanyard.cnrad.dev/api/1146145475683164273?bg=282c34&borderRadius=5px&hideProfile=true" height="130" />
 
 - ⚡ Fun fact: **JetBrains > everything**
