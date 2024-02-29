@@ -2,6 +2,10 @@
 
 ###
 
+<img src="https://cdn.discordapp.com/attachments/1146742149828857877/1212704543825993769/greeting.png?ex=65f2ce1e&is=65e0591e&hm=761b57ea97d9f9c403d9dc71adb25f03e9a01481f17788944a803c8bb5de979e&&quality=lossless&width=1920&height=332"/>
+
+###
+
 <h4 align="left">I'm a developer who learns everything that's cool and interesting. I'm currently a student and want to become a full-stack developer.</h3>
 
 
@@ -45,10 +49,6 @@ src="https://media.botmarket.ovh/uf2f5i.png" width="55px"/>
 
 ###
 
-<h3 align="left">Thank you for reading!</h3>
-
-###
-
 If you want to contact me, please go through Discord or X (oldly Twitter). Moreover, you can see my WakaTime stats (coding time, etc) here: **<a href="https://wakatime.com/@elouannh">my WakaTime</a>**.
 
 ### WakaTime recording started in August of 2022.
@@ -83,6 +83,10 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 ###
 
 <img src="https://raw.githubusercontent.com/elouannh/elouannh/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://media.discordapp.net/attachments/1146742149828857877/1212703846904635414/byebye.png?ex=65f2cd78&is=65e05878&hm=40091351706ce20765bd59e4637611ee7d97ee7beae4072285fd47ea182773fd&=&format=webp&quality=lossless&width=1920&height=332"/>
 
 ###
 
