@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on [**Mariko**](https://github.com/MarikoBot) and on my [**Portfolio**](https://elouann.space)
 
 - 🌱 At present, I am learning **Flask + PostgreSQL & VueJS with Docker**
-<img align="right" src="https://lanyard.cnrad.dev/api/1146145475683164273?bg=282c34&borderRadius=5px&hideProfile=true" height="130" />
 
 - ⚡ Fun fact: **JetBrains > everything**
 
@@ -24,6 +23,8 @@
 <h1 align="left">Languages & technologies I use:</h1>
 
 ###
+
+<img align="right" src="https://lanyard.cnrad.dev/api/1146145475683164273?bg=282c34&borderRadius=5px&hideProfile=true" height="130" />
 
 <img
 src="https://media.botmarket.ovh/3go1ei.png" width="55px"/><img width="5px"/><img
@@ -51,34 +52,27 @@ src="https://media.botmarket.ovh/uf2f5i.png" width="55px"/>
 
 If you want to contact me, please go through Discord or X (oldly Twitter). Moreover, you can see my WakaTime stats (coding time, etc) here: **<a href="https://wakatime.com/@elouannh">my WakaTime</a>**.
 
-### WakaTime recording started in August of 2022.
+###
+
+# Some charts and stats
 
 ###
 
-<div align="left">
-  <a href="https://discord.com/users/1146145475683164273" target="_blank"><img
-    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=elouannh&color=7289DA&logoColor=white&labelColor=" height="30" alt="discord logo"  /></a>
-  <a href="https://twitter.com/elouannh" target="_blank"><img 
-    src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=elouannh27&color=1DA1F2&logoColor=white&labelColor=" height="30" alt="twitter logo"  /></a>
-  <a href="https://wakatime.com/@1f18b09f-6cf2-4aa1-a256-b88b4b5616fe"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg" alt="Total time coded since Aug 13 2022" height="30"/></a>
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elouannh&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="280" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div>
-  <a href="https://me.elouann.space"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=tokyonight&rank_icon=github&hide_border=true" /></a>
-  <a href="https://me.elouann.space"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" /></a>
+<div align="center">
+  <a href="https://me.elouann.space"><img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=tokyonight&rank_icon=github&hide_border=true" /></a>
+  <img width="12px"/>
+  <a href="https://me.elouann.space"><img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" /></a>
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
 </div>
 
@@ -92,8 +86,13 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_text=Visitors"  />
+<div align="center">
+  <a href="https://discord.com/users/1146145475683164273" target="_blank"><img
+    src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=elouannh&color=7289DA&logoColor=white&labelColor=" height="30" alt="discord logo"  /></a>
+  <a href="https://twitter.com/elouannh" target="_blank"><img 
+    src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=elouannh27&color=1DA1F2&logoColor=white&labelColor=" height="30" alt="twitter logo"  /></a>
+  <a href="https://wakatime.com/@1f18b09f-6cf2-4aa1-a256-b88b4b5616fe"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg" alt="Total time coded since Aug 13 2022" height="30"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_text=Visitors" height="30" />
 </div>
 
 ###
