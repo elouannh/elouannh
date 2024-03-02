@@ -78,7 +78,11 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 
 ###
 
-<img src="https://raw.githubusercontent.com/elouannh/elouannh/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
 
