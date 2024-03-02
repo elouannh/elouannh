@@ -66,18 +66,20 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elouannh&radius=16&theme=tokyo-night&area=true&order=5" height="280" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elouannh&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="280" alt="activity-graph graph"  />
 </div>
+
+###
+
 <div>
-  <a href="https://me.elouann.space">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=tokyonight&rank_icon=github" />
-  </a>
-  <a href="https://me.elouann.space">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
+  <a href="https://me.elouann.space"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=tokyonight&rank_icon=github&hide_border=true" /></a>
+  <a href="https://me.elouann.space"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" /></a>
 </div>
+
+###
+
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
 </div>
 
 ###
