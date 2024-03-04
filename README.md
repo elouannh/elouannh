@@ -93,7 +93,7 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 
 ###
 
-<!-- GitHub languages -->
+<!-- GitHub snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg">
