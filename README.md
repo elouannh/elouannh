@@ -1,11 +1,14 @@
+<!-- Introduction -->
 <h1 align="left">Hi 👋, I'm Elouann</h1>
 
 ###
 
+<!-- "Ohayou" banner -->
 <img src="https://cdn.discordapp.com/attachments/1146742149828857877/1212704543825993769/greeting.png?ex=65f2ce1e&is=65e0591e&hm=761b57ea97d9f9c403d9dc71adb25f03e9a01481f17788944a803c8bb5de979e&&quality=lossless&width=1920&height=332"/>
 
 ###
 
+<!-- Description -->
 <h4 align="left">I'm a developer who learns everything that's cool and interesting. I'm currently a student and want to become a full-stack developer.</h3>
 
 
@@ -20,12 +23,15 @@
 
 ###
 
+<!-- Languages -->
 <h1 align="left">Languages & technologies I use:</h1>
 
 ###
 
+<!-- Discord status -->
 <img align="right" src="https://lanyard.cnrad.dev/api/1146145475683164273?bg=282c34&borderRadius=5px&hideProfile=true" height="130" />
 
+<!-- Languages & technos icons -->
 <img
 src="https://media.botmarket.ovh/3go1ei.png" width="55px"/><img width="5px"/><img
 src="https://media.botmarket.ovh/f1dzqa.png" width="55px"/><img width="5px"/><img
@@ -58,10 +64,12 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 
 ###
 
+<!-- Charts -->
 # Some charts and stats
 
 ###
 
+<!-- Acitvity linear graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elouannh&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="280" alt="activity-graph graph"  />
 </div>
@@ -69,19 +77,23 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 ###
 
 <div align="center">
+  <!-- GitHub rank -->
   <a href="https://me.elouann.space"><img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=tokyonight&rank_icon=github&hide_border=true" /></a>
   <img width="12px"/>
+  <!-- GitHub languages -->
   <a href="https://me.elouann.space"><img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" /></a>
 </div>
 
 ###
 
+<!-- GitHub streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
 </div>
 
 ###
 
+<!-- GitHub languages -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg">
@@ -90,16 +102,21 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 
 ###
 
+<!-- "Jaa, maata" banner -->
 <img src="https://media.discordapp.net/attachments/1146742149828857877/1212703846904635414/byebye.png?ex=65f2cd78&is=65e05878&hm=40091351706ce20765bd59e4637611ee7d97ee7beae4072285fd47ea182773fd&=&format=webp&quality=lossless&width=1920&height=332"/>
 
 ###
 
 <div align="center">
+  <!-- Discord badge -->
   <a href="https://discord.com/users/1146145475683164273" target="_blank"><img
     src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=elouannh&color=7289DA&logoColor=white&labelColor=" height="30" alt="discord logo"  /></a>
+  <!-- Twitter badge -->
   <a href="https://twitter.com/elouannh" target="_blank"><img 
     src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=elouannh27&color=1DA1F2&logoColor=white&labelColor=" height="30" alt="twitter logo"  /></a>
+  <!-- Wakatime badge -->
   <a href="https://wakatime.com/@1f18b09f-6cf2-4aa1-a256-b88b4b5616fe"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg" alt="Total time coded since Aug 13 2022" height="30"/></a>
+  <!-- Visitors badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_text=Visitors" height="30" />
 </div>
 
