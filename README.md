@@ -51,7 +51,7 @@ src="https://media.botmarket.ovh/uf2f5i.png" width="55px"/>
 
 ###
 
-If you want to contact me, please go through Discord or X (oldly Twitter). Moreover, you can see my WakaTime stats (coding time, etc) here: **<a href="https://wakatime.com/@elouannh">my WakaTime</a>**.
+If you want to contact me, please go through Discord or X (oldly Twitter). Moreover, you can see my WakaTime stats (coding time, etc) here: my **<a href="https://wakatime.com/@elouannh">WakaTime</a>**.
 
 ###
 
