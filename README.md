@@ -98,6 +98,7 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 
 <!-- "Jaa, maata" banner -->
 <img src="https://media.discordapp.net/attachments/1146742149828857877/1212703846904635414/byebye.png?ex=65f2cd78&is=65e05878&hm=40091351706ce20765bd59e4637611ee7d97ee7beae4072285fd47ea182773fd&=&format=webp&quality=lossless&width=1920&height=332"/>
+Empty commit
 
 ###
 
