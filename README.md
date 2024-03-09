@@ -34,12 +34,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.botmarket.ovh/3go1ei.png">
   <source media="(prefers-color-scheme: light)" srcset="https://media.botmarket.ovh/cf30dm.png">
-  <img alt="nodejs" src="https://media.botmarket.ovh/3go1ei.png" width="55px">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.botmarket.ovh/3go1ei.png">
   <source media="(prefers-color-scheme: light)" srcset="https://media.botmarket.ovh/cf30dm.png">
-  <img alt="nodejs" src="https://media.botmarket.ovh/3go1ei.png" width="55px">
 </picture>
 
 ###
