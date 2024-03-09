@@ -26,10 +26,25 @@
 ###
 
 <!-- Languages & technos icons -->
-<picture width="55px">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media.botmarket.ovh/3go1ei.png">
   <source media="(prefers-color-scheme: light)" srcset="https://media.botmarket.ovh/cf30dm.png">
-</picture><img
+  <img alt="nodejs" src="https://media.botmarket.ovh/3go1ei.png" width="55px">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.botmarket.ovh/3go1ei.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://media.botmarket.ovh/cf30dm.png">
+  <img alt="nodejs" src="https://media.botmarket.ovh/3go1ei.png" width="55px">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.botmarket.ovh/3go1ei.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://media.botmarket.ovh/cf30dm.png">
+  <img alt="nodejs" src="https://media.botmarket.ovh/3go1ei.png" width="55px">
+</picture>
+
+###
+
+<img
 src="https://media.botmarket.ovh/3go1ei.png" width="55px"/><img width="5px"/><img
 src="https://media.botmarket.ovh/f1dzqa.png" width="55px"/><img width="5px"/><img
 src="https://media.botmarket.ovh/8vrpcv.png" width="55px"/><img width="5px"/><img
