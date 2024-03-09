@@ -11,15 +11,12 @@
 <!-- Description -->
 <h4 align="left">I'm a developer who learns everything that's cool and interesting. I'm currently a student and want to become a full-stack developer.</h3>
 
-
 - 🔭 I’m currently working on [**Mariko**](https://github.com/MarikoBot) and on my [**Portfolio**](https://elouann.space)
-
 - 🌱 At present, I am learning **Flask + PostgreSQL & VueJS with Docker**
-
 - ⚡ Fun fact: **JetBrains > everything**
-
 - 🎆 Planning to live in **Japan**
-<p align="left"><br><br>You can check my portfolio <a href="https://elouann.space">here</a>.</p>
+- 
+<p align="left">You can check my portfolio <a href="https://elouann.space">here</a>.</p>
 
 ###
 
@@ -29,7 +26,10 @@
 ###
 
 <!-- Languages & technos icons -->
-<img
+<picture width="55px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.botmarket.ovh/3go1ei.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://media.botmarket.ovh/cf30dm.png">
+</picture><img
 src="https://media.botmarket.ovh/3go1ei.png" width="55px"/><img width="5px"/><img
 src="https://media.botmarket.ovh/f1dzqa.png" width="55px"/><img width="5px"/><img
 src="https://media.botmarket.ovh/8vrpcv.png" width="55px"/><img width="5px"/><img
