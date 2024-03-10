@@ -15,7 +15,7 @@
 - 🌱 At present, I am learning **Flask + PostgreSQL & VueJS with Docker**
 - ⚡ Fun fact: **JetBrains > everything**
 - 🎆 Planning to live in **Japan**
-- 
+
 <p align="left">You can check my portfolio <a href="https://elouann.space">here</a>.</p>
 
 ###
