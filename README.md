@@ -4,7 +4,6 @@
 ###
 
 <!-- "Ohayou" banner -->
-<img src="https://cdn.discordapp.com/attachments/1146742149828857877/1212704543825993769/greeting.png?ex=65f2ce1e&is=65e0591e&hm=761b57ea97d9f9c403d9dc71adb25f03e9a01481f17788944a803c8bb5de979e&&quality=lossless&width=1920&height=332"/>
 
 ###
 
@@ -95,7 +94,6 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 ###
 
 <!-- "Jaa, maata" banner -->
-<img src="https://media.discordapp.net/attachments/1146742149828857877/1212703846904635414/byebye.png?ex=65f2cd78&is=65e05878&hm=40091351706ce20765bd59e4637611ee7d97ee7beae4072285fd47ea182773fd&=&format=webp&quality=lossless&width=1920&height=332"/>
 
 ###
 
