@@ -111,3 +111,5 @@ If you want to contact me, please go through Discord or X (oldly Twitter). Moreo
 </div>
 
 ###
+
+MIMI IS COOL
