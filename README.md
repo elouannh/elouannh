@@ -6,7 +6,6 @@
 <div align="left">
   <!-- GitHub rank -->
   <a href="https://me.elouann.space"><img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=graywhite&rank_icon=github&hide_border=true" /></a>
-  <img width="12px"/>
   <!-- GitHub languages -->
   <a href="https://me.elouann.space"><img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=8&card_width=320&theme=graywhite&hide_border=true" /></a>
 </div>
@@ -15,7 +14,7 @@
 
 <!-- GitHub streak -->
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3&card_width=800" width="720" alt="streak graph"  />
 </div>
 
 ###
