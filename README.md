@@ -1,8 +1,4 @@
-
 <!-- Charts -->
-
-###
-
 <div align="center">
   <!-- GitHub rank -->
   <a href="https://me.elouann.space"><img width="800" align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=graywhite&rank_icon=github&hide_border=true&card_width=800" /></a>
@@ -19,6 +15,7 @@
 
 ###
 
+<!-- Badges -->
 <div align="center">
   <!-- Discord badge -->
   <a href="https://discord.com/users/1146145475683164273" target="_blank"><img
