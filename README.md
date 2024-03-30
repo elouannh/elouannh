@@ -1,3 +1,5 @@
+> Phrase of the day: Why organization contributions does not appear on my profile??
+
 <!-- Charts -->
 <div align="center">
   <!-- GitHub rank -->
