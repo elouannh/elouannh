@@ -1,4 +1,4 @@
-> Phrase of the day: Why organization contributions does not appear on my profile??
+> Phrase of the day: I did something that is not supposed to work, but it does. Never ask why.
 
 <!-- Charts -->
 <div align="center">
