@@ -1,6 +1,6 @@
 ---
 
-### Phrase of the day: I did something that is not supposed to work, but it does. Never ask why.
+### Phrase of the day: Poursue your dreams without regarding other people opinion.
 
 ---
 
