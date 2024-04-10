@@ -1,6 +1,6 @@
 ---
 
-### Phrase of the day: Poursue your dreams without regarding other people opinion.
+### Phrase of the day: J'ai chassé la galinette cendrée...
 
 ---
 
