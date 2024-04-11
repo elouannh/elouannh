@@ -1,6 +1,12 @@
 ---
 
-### Phrase of the day: J'ai chassé la galinette cendrée...
+### Phrase of the day: Tchou tchou!
+
+· dev at [MarikoBot](https://github.com/MarikoBot), <ins>Genee-SARL</ins>, [BotMarket](https://www.botmarket.ovh/) <br/>
+· japan, coding, games, mangas <br/>
+· full-stack dev (student), busy asf <br/>
+· http://discord.marikobot.com <br/>
+· https://wakatime.com/@elouannh
 
 ---
 
