@@ -1,5 +1,3 @@
----
-
 ### Phrase of the day: Hello guys, I'm under the water, please help me...
 
 - dev at [MarikoBot](https://github.com/MarikoBot), <ins>Genee-SARL</ins>, [BotMarket](https://www.botmarket.ovh/) <br/>
