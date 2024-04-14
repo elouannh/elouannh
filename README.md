@@ -1,12 +1,12 @@
 ---
 
-### Phrase of the day: Tchou tchou!
+### Phrase of the day: Hello guys, I'm under the water, please help me...
 
-· dev at [MarikoBot](https://github.com/MarikoBot), <ins>Genee-SARL</ins>, [BotMarket](https://www.botmarket.ovh/) <br/>
-· japan, coding, games, mangas <br/>
-· full-stack dev (student), busy asf <br/>
-· [MarikoBot Discord](http://discord.marikobot.com) <br/>
-· [WakaTime](https://wakatime.com/@elouannh)
+- dev at [MarikoBot](https://github.com/MarikoBot), <ins>Genee-SARL</ins>, [BotMarket](https://www.botmarket.ovh/) <br/>
+- japan, coding, games, mangas <br/>
+   full-stack dev (student), busy asf <br/>
+- [MarikoBot Discord](http://discord.marikobot.com) <br/>
+- [WakaTime](https://wakatime.com/@elouannh)
 
 ---
 
