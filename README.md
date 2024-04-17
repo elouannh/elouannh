@@ -6,21 +6,6 @@
 - [MarikoBot Discord](http://discord.marikobot.com) <br/>
 - [WakaTime](https://wakatime.com/@elouannh)
 
----
-
-<!-- Charts -->
-<div align="center">
-  <!-- GitHub rank -->
-  <a href="https://me.elouann.space"><img width="800" align="center" src="https://github-readme-stats.vercel.app/api?username=elouannh&theme=graywhite&rank_icon=github&hide_border=true&card_width=800" /></a>
-  <!-- GitHub languages -->
-  <a href="https://me.elouann.space"><img width="800" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elouannh&layout=compact&langs_count=20&card_width=800&theme=graywhite&hide_border=true" /></a>
-</div>
-
-<!-- GitHub streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=elouannh&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5&order=3&card_width=800" width="800" alt="streak graph"  />
-</div>
-
 <!-- Badges -->
 <div align="center">
   <!-- Discord badge -->
@@ -35,7 +20,6 @@
   <a href="https://elouannhosta.com/"><img src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_text=Visitors" height="20" /></a>
 </div>
 
----
 
 <!-- GitHub snake -->
 <div align="center">
