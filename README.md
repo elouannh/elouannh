@@ -1,8 +1,10 @@
 ### Phrase of the day: Hello guys, I'm under the water, please help me...
 
-[WakaTime](https://wakatime.com/@elouannh)<br/>
-dev at [MarikoBot](https://github.com/MarikoBot), <ins>Genee-SARL</ins>, [BotMarket](https://www.botmarket.ovh/)<br/>
-[MarikoBot Discord](http://discord.marikobot.com)
+[**WakaTime**](https://wakatime.com/@elouannh)
+
+**Owner** @ [MarikoBot Discord](http://discord.marikobot.com) - **Developer** @ <ins>Genee-SARL</ins> and [BotMarket](https://www.botmarket.ovh/)<br/>
+
+
 
 <!-- Badges -->
 <div align="center">
