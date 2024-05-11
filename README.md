@@ -1,4 +1,4 @@
-### Phrase of the day: 私は猫です。meoooww...
+### Phrase of the day: TypeScript in my heart.
 
 **Owner** @ [**MarikoBot Discord**](http://discord.marikobot.com) - **Developer** @ [**Genee**](https://www.genee.tech/) and [**BotMarket**](https://www.botmarket.ovh/)<br/>
 
