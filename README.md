@@ -1,4 +1,4 @@
-### Phrase of the day: TypeScript in my heart.
+### Phrase of the day: i am bearcat.
 
 **Owner** @ [**MarikoBot Discord**](http://discord.marikobot.com) - **Developer** @ [**Genee**](https://www.genee.tech/) and [**BotMarket**](https://www.botmarket.ovh/)<br/>
 
