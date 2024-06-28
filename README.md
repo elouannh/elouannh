@@ -8,7 +8,7 @@
 <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@elouannh/b223c576-0a8f-4f69-852c-bdb3993dd645.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@elouannh/7eb3605b-5325-421f-b02d-99117fbb093e.svg"/>
-  <img src="https://wakatime.com/share/@elouannh/b223c576-0a8f-4f69-852c-bdb3993dd645.svg" height="100">
+  <img src="https://wakatime.com/share/@elouannh/b223c576-0a8f-4f69-852c-bdb3993dd645.svg">
 </picture>
 
 <!-- GitHub snake -->
@@ -16,6 +16,6 @@
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="ttps://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" height="130" />
+    <img alt="github-snake" src="ttps://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
