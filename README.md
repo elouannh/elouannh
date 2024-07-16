@@ -2,7 +2,7 @@
 [**Genee**](https://www.genee.tech/)<br/>
 [**BotMarket**](https://www.botmarket.ovh/)<br/>
 
-## <a href="https://wakatime.com/@elouannh"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg" alt="Total time coded since Aug 13 2022" height="20"/></a>
+## <a href="https://wakatime.com/@ehosta"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg" alt="Total time coded since Aug 13 2022" height="20"/></a>
 
 
 <picture align="center">
