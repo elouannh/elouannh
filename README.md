@@ -6,16 +6,15 @@
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@elouannh/b223c576-0a8f-4f69-852c-bdb3993dd645.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@elouannh/7eb3605b-5325-421f-b02d-99117fbb093e.svg"/>
-  <img src="https://wakatime.com/share/@elouannh/b223c576-0a8f-4f69-852c-bdb3993dd645.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/ea926dc9-b601-4521-a226-3bcdde42f4eb.svg"/>
+  <img src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg">
 </picture>
 
-<!-- GitHub snake -->
 <div align="center">
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="ttps://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
