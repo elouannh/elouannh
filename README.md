@@ -1,4 +1,4 @@
-[**MarikoBot Discord**](http://discord.marikobot.com) @MarikoBot<br/>
+[**Mariko**](http://github.com/MarikoBot)<br/>
 [**Genee**](https://www.genee.tech/)<br/>
 [**BotMarket**](https://www.botmarket.ovh/)<br/>
 
