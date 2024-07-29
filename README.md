@@ -78,7 +78,15 @@
 	<picture align="center">
 		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="1000px">
-		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px"/>
+		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
+	</picture>
+</div>
+
+<div align="center">
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="450px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue-dark" width="450px">
+		<img alt="github-chart" src="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="1000px">
 	</picture>
 </div>
 
@@ -96,7 +104,7 @@
 <div align="center">
 	<picture align="center">
 		<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="1000px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/ea926dc9-b601-4521-a226-3bcdde42f4eb.svg" width="1000px"/>
+		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/ea926dc9-b601-4521-a226-3bcdde42f4eb.svg" width="1000px">
 		<img alt="wakatime-chart" src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="1000px">
 	</picture>
 </div>
