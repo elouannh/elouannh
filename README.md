@@ -76,20 +76,24 @@
 
 <div align="center">
 	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="1000px">
-		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" height="200px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue-dark" height="200px">
+		<img alt="github-chart" src="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" height="200px">
+	</picture>
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" height="200px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue-dark" height="200px">
+		<img alt="github-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&layout=compact&theme=vue" height="200px">
 	</picture>
 </div>
 
 <div align="center">
 	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="450px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue-dark" width="450px">
-		<img alt="github-chart" src="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="1000px">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="1000px">
+		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
 	</picture>
 </div>
-
 
 ###
 
@@ -100,6 +104,14 @@
 ###
 
 <br clear="both">
+
+<div align="center">
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&theme=vue" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&theme=vue-dark" width="700px">
+		<img alt="wakatime-languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&theme=vue" width="700px">
+	</picture>
+</div>
 
 <div align="center">
 	<picture align="center">
