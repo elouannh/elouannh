@@ -1,4 +1,5 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80"  />
+<img align="center" src="https://media.botmarket.ovh/IFWQzvlf7NIRUXj.jpg">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80">
 
 ###
 
@@ -11,6 +12,34 @@
 <br clear="both">
 
 <p align="left">I'm Elouann from France. I love coding and learning new things. I've gained experience in many fields such as web development (full-stack), Discord bots, low-level programming in C and C++, some machine learning, Discord bots, and currently game development with C++ and UnrealEngine.</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">紀 My journey</h2>
+
+###
+
+<div align="left">
+	<p align="left">- I touched a computer for the first time in 2016~2017, in middle school, and the first thing I programmed was a Sprite on Scratch.</p>
+	<p align="left">- Then I started tinkering with things that every geek and Discord user has already tried: Discord bots. So I learned JavaScript.</p>
+	<p align="left">- As the months and years went by, I expanded my knowledge base a little by learning the basics of HTML, CSS and Python.</p>
+	<p align="left">- After high school, I started a programming school which I stopped attending because I wasn't learning anything. I had a monstrous opportunity to work as a full-stack developer in a start-up (I was only 18). They pushed me through the doors to get into the 42 school.</p>
+	<p align="left">- During this time, I took the opportunity to learn other languages and technologies, and completed a few personal projects (Discord bots, websites, etc.).</p>
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">私 More about me...</h2>
+
+###
+
+<br clear="both">
+
+<p align="left">I'm a hard worker when it comes to learning new things, and not just from the world of programming and IT. For example, I'm learning several languages (Spanish, Japanese and Chinese). If you feel like chatting about anything, don't hesitate to add me on Discord :D (username: ehosta).</p>
 
 ###
 
@@ -99,7 +128,7 @@
 
 <br clear="both">
 
-<h2 align="left">期 My WakaTime records</h2>
+<h2 align="left">期 My WakaTime records (since August 2022)</h2>
 
 ###
 
@@ -128,5 +157,3 @@
 		<img alt="wakatime-chart" src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="1000px">
 	</picture>
 </div>
-
-###
