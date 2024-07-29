@@ -1,7 +1,3 @@
-[**Mariko**](http://github.com/MarikoBot)<br/>
-[**Genee**](https://www.genee.tech/)<br/>
-[**BotMarket**](https://www.botmarket.ovh/)<br/>
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80"  />
 
 ###
@@ -78,15 +74,23 @@
 
 <br clear="both">
 
+<div align="center">
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="1000px">
+		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px"/>
+	</picture>
+</div>
+
+###
+
+<br clear="both">
+
 <h2 align="left">期 My WakaTime records</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
 	<picture align="center">
@@ -96,10 +100,4 @@
 	</picture>
 </div>
 
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="1000px">
-		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px"/>
-	</picture>
-</div>
+###
