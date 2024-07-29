@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">I am Elouann, from France. I love coding and learning things. I got some experience in a lot of domains such as web development (full-stack), Discord bots, low-level programming with C and C++, a bit of machine learning and, currently some game development with C++ and UnrealEngine.</p>
+<p align="left">I'm Elouann from France. I love coding and learning new things. I've gained experience in many fields such as web development (full-stack), Discord bots, low-level programming in C and C++, some machine learning, Discord bots, and currently game development with C++ and UnrealEngine.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<p align="left">I did a lot of web and I'd like to convert myself to a low-level based programmer. I am currently learning a lot of things to extend my panel of knowledges and I'd like to make my choice later.</p>
+<p align="left">I've done a lot of web development and I'd like to become a low-level programmer. I'm learning a lot to broaden my range of knowledge and I'd like to make my choice later.</p>
 
 ###
 
@@ -83,7 +83,7 @@
 	<picture align="center">
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" height="200px">
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue-dark" height="200px">
-		<img alt="github-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&layout=compact&theme=vue" height="200px">
+		<img alt="github-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" height="200px">
 	</picture>
 </div>
 
@@ -107,9 +107,17 @@
 
 <div align="center">
 	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&theme=vue" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&theme=vue-dark" width="700px">
-		<img alt="wakatime-languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&theme=vue" width="700px">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue-dark" width="700px">
+		<img alt="wakatime-languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue" width="700px">
+	</picture>
+</div>
+
+<div align="center">
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ehosta/74719e8c-3084-412b-90c8-cc5a2b09992e.svg" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/7172782f-9fc6-4502-a6cb-7261ab54f2bb.svg" width="700px">
+		<img alt="wakatime-circle" src="https://wakatime.com/share/@ehosta/74719e8c-3084-412b-90c8-cc5a2b09992e.svg" width="700px">
 	</picture>
 </div>
 
