@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<h2 align="left">具 Technologies</h2>
+<h2 align="left">具 Technologies and tools</h2>
 
 ###
 
