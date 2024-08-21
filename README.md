@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Elouann from France. I love coding and learning new things. I've gained experience in many fields such as web development (full-stack), Discord bots, low-level programming in C and C++, some machine learning, Discord bots, and currently game development with C++ and UnrealEngine.</p>
+<p align="left">I'm Elouann from France. I love coding and learning new things. I've gained experience in many fields such as web development (full-stack), Discord bots, low-level programming in C, C++ and Rust, some machine learning, Discord bots, Blockchain development, and currently game development with C++ and UnrealEngine.</p>
 
 ###
 
