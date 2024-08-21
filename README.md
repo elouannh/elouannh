@@ -1,4 +1,3 @@
-<img align="center" src="https://media.botmarket.ovh/IFWQzvlf7NIRUXj.jpg">
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80">
 
 ###
