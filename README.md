@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<h2 align="left">紀 My journey</h2>
+<h2 align="left">「🌅」紀 My journey</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<h2 align="left">私 More about me...</h2>
+<h2 align="left">「😶‍🌫️」私 More about me...</h2>
 
 ###
 
@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<h2 align="left">職 What do I do?</h2>
+<h2 align="left">「📚」職 What do I do?</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<h2 align="left">具 Technologies and tools</h2>
+<h2 align="left">「💼」具 Technologies and tools</h2>
 
 ###
 
@@ -135,7 +135,7 @@
 
 <br clear="both">
 
-<h2 align="left">算 My GitHub statistics</h2>
+<h2 align="left">「📊」算 My GitHub statistics</h2>
 
 ###
 
@@ -166,7 +166,7 @@
 
 <br clear="both">
 
-<h2 align="left">期 My WakaTime records (since August 2022)</h2>
+<h2 align="left">「⏳」期 My WakaTime records (since August 2022)</h2>
 
 ###
 
@@ -177,14 +177,6 @@
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue" width="700px">
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue-dark" width="700px">
 		<img alt="wakatime-languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue" width="700px">
-	</picture>
-</div>
-
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ehosta/74719e8c-3084-412b-90c8-cc5a2b09992e.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/7172782f-9fc6-4502-a6cb-7261ab54f2bb.svg" width="700px">
-		<img alt="wakatime-circle" src="https://wakatime.com/share/@ehosta/74719e8c-3084-412b-90c8-cc5a2b09992e.svg" width="700px">
 	</picture>
 </div>
 
