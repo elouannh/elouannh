@@ -3,6 +3,10 @@
 	<img align="left" src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg"/>
 </div>
 
+<a href="https://profile.intra.42.fr/users/ehosta">
+	<img align="center" src="https://badge.mediaplus.ma/colorfulwaves/ehosta?1337Badge=off&42Network=off&UM6P=off" alt="Cursus de ehosta" />
+</a>
+
 ###
 
 <br clear="both">
