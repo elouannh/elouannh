@@ -1,83 +1,39 @@
-<div align="left">
-	<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80"/>
-	<img align="left" src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg"/>
+<br clear="both">
+
+<div align="center">
+  <img height="160" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU3MjQzMzYsIm5iZiI6MTcyNTcyNDAzNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA3VDE1NDcxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkOGI1MTQ4ZTE0YWI0ODhhYjA3YmY2ZjAyMzlhNzAxZjljNGMyN2I3NDYwNTk2YTNhZWU0YTlhMGFmNTAzMmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.K3xYIfX_oBJWkAazl0qanqlbm6Q8YZEK8ikY-QBdgJM"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h1 align="left">👋 Hi!</h1>
-
-###
-
-<br clear="both">
-
-<p align="left">I'm Elouann from France. I love coding and learning new things. I've gained experience in many fields such as web development (full-stack), Discord bots, low-level programming in C, C++ and Rust, some machine learning, Discord bots, Blockchain development, and currently game development with C++ and UnrealEngine.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">「🌅」紀 My journey</h2>
-
-###
-
-<div align="left">
-	<p align="left">- I touched a computer for the first time in 2016~2017, in middle school, and the first thing I programmed was a Sprite on Scratch.</p>
-	<p align="left">- Then I started tinkering with things that every geek and Discord user has already tried: Discord bots. So I learned JavaScript.</p>
-	<p align="left">- As the months and years went by, I expanded my knowledge base a little by learning the basics of HTML, CSS and Python.</p>
-	<p align="left">- After high school, I started a programming school which I stopped attending because I wasn't learning anything. I had a monstrous opportunity to work as a full-stack developer in a start-up (I was only 18). They pushed me through the doors to get into the 42 school.</p>
-	<p align="left">- During this time, I took the opportunity to learn other languages and technologies, and completed a few personal projects (Discord bots, websites, etc.).</p>
+<div align="center">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80"/>
+	<img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg"/>
 </div>
 
 ###
 
-<br clear="both">
-
-<h2 align="left">「😶‍🌫️」私 More about me...</h2>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<br clear="both">
-
-<p align="left">I'm a hard worker when it comes to learning new things, and not just from the world of programming and IT. For example, I'm learning several languages (Spanish, Japanese and Chinese). If you feel like chatting about anything, don't hesitate to add me on Discord :D (username: ehosta).</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<br clear="both">
-
-<h2 align="left">「📚」職 What do I do?</h2>
+<p align="left">I'm Elouann from Lyon.<br><br>- 🔭 I’m working as a freelance developer, a part-time job because I am a 42's school student.<br>- 📚 I'm currently learning Rust & Java.<br>- ⚡ In my free time I keep coding and learning Japanese.</p>
 
 ###
 
-<br clear="both">
-
-<p align="left">I've done a lot of web development and I'd like to become a low-level programmer. I'm learning a lot to broaden my range of knowledge and I'd like to make my choice later.</p>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<br clear="both">
-
-<h2 align="left">「💼」具 Technologies and tools</h2>
-
-###
-
-<br clear="both">
 
 <div align="left">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript-logo"/>
 	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript-logo"/>
-	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs-logo"/>
 	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" alt="express-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="42" alt="discordjs-logo"/>
-	<img width="14" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="42" alt="json-logo"/>
-	<br/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5-logo"/>
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3-logo"/>
@@ -89,27 +45,25 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="42" alt="vuejs-logo"/>
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="42" alt="svelte-logo"/>
-	<br/>
+	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="42" alt="rust-logo"/>
 	<img width="1"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c-logo"/>
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus-logo"/>
 	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="42" alt="unrealengine-logo"/>
-	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="bash-logo"/>
-	<br/>
+	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python-logo"/>
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="flask-logo"/>
-	<br/>
+	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="42" alt="mongodb-logo"/>
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="42" alt="postgresql-logo"/>
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="sqlite-logo"/>
-	<br/>
+	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker-logo"/>
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git-logo"/>
@@ -118,72 +72,66 @@
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux-logo"/>
 	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="42" alt="windows11-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode-logo"/>
-	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="42" alt="jetbrains-logo"/>
 	<img width="1" />
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="42" alt="trello logo"  />
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="42" alt="markdown logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h2 align="left">「📊」算 My GitHub statistics</h2>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<br clear="both">
-
 <div align="center">
 	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" height="200px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue-dark" height="200px">
-		<img alt="github-chart" src="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" height="200px">
-	</picture>
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" height="200px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue-dark" height="200px">
-		<img alt="github-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" height="200px">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue-dark" width="700px">
+		<img alt="github-chart" src="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="700px">
 	</picture>
 </div>
 
 <div align="center">
 	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="1000px">
-		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="1000px">
-	</picture>
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">「⏳」期 My WakaTime records (since August 2022)</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue-dark" width="700px">
-		<img alt="wakatime-languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue" width="700px">
+		<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=elouannh&theme=vue&date_format=%5BY.%5Dn.j&card_width=700" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=elouannh&theme=vue-dark&date_format=%5BY.%5Dn.j&card_width=700" width="700px">
+		<img alt="github-streak" src="https://streak-stats.demolab.com?user=elouannh&theme=vue&date_format=%5BY.%5Dn.j&card_width=700" width="700px">
 	</picture>
 </div>
 
 <div align="center">
 	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="1000px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/ea926dc9-b601-4521-a226-3bcdde42f4eb.svg" width="1000px">
-		<img alt="wakatime-chart" src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="1000px">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" width="250px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue-dark" width="250px">
+		<img alt="github-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" width="250px">
 	</picture>
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=10&layout=compact&theme=vue" width="450px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=10&layout=compact&theme=vue-dark" width="450px">
+		<img alt="wakatime-languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=10&layout=compact&theme=vue" width="450px">
+	</picture>
+</div>
+
+<div align="center">
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app?username=elouannh&theme=flat&column=5&margin-w=10&margin-h=10" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=elouannh&theme=matrix&column=5&margin-w=10&margin-h=10" width="700px">
+		<img alt="trophies" src="https://github-profile-trophy.vercel.app?username=elouannh&theme=flat&column=5&margin-w=10&margin-h=10" width="700px">
+	</picture>
+</div>
+
+<div align="center">
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="700px">
+		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="700px">
+	</picture>
+</div>
+<div align="center">
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/ea926dc9-b601-4521-a226-3bcdde42f4eb.svg" width="700px">
+		<img alt="wakatime-chart" src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="700px">
+	</picture>
+</div>
 </div>
