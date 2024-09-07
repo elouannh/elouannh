@@ -17,6 +17,7 @@
 
 ###
 
+<br clear="both">
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -25,6 +26,7 @@
 
 ###
 
+<br clear="both">
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -79,6 +81,7 @@
 
 ###
 
+<br clear="both">
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -134,4 +137,4 @@
 		<img alt="wakatime-chart" src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="700px">
 	</picture>
 </div>
-</div>
+
