@@ -97,6 +97,18 @@
 		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.compact.svg" width="700px">
 		<img alt="github-chart" src="/metrics.plugin.achievements.compact.svg" width="700px">
 	</picture>
+	<tr>
+	    <td colspan="2" align="center">
+			<details>
+				<summary>Expend</summary>
+				<picture align="center">
+					<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.detailed.svg" width="700px">
+					<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.detailed.svg" width="700px">
+					<img alt="github-chart" src="/metrics.plugin.achievements.detailed.svg" width="700px">
+				</picture>
+			</details>
+	    </td>
+	</tr>
 </div>
 
 <div align="center">
