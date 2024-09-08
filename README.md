@@ -14,7 +14,6 @@
 ###
 
 <h1 align="center">Hey there 👋</h1>
-
 <br clear="both">
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -80,10 +79,6 @@
 ###
 
 <br clear="both">
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
 	<picture align="center">
 		<source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg" width="700px">
