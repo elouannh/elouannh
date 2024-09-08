@@ -47,9 +47,12 @@ jobs:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          from: 1000
+          plugin_habits_days: 30
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
+          plugin_habits_trim: yes
           config_timezone: Europe/Paris
 
       - uses: lowlighter/metrics@latest
@@ -57,8 +60,10 @@ jobs:
           filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          from: 1000
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_habits_trim: yes
           config_timezone: Europe/Paris
 
