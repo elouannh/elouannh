@@ -124,6 +124,11 @@
 		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="700px">
 		<img alt="github-chart" src="/metrics.plugin.isocalendar.fullyear.svg" width="700px">
 	</picture>
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.languages.indepth.svg" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.languages.indepth.svg" width="700px">
+		<img alt="github-chart" src="/metrics.plugin.languages.indepth.svg" width="700px">
+	</picture>
 </div>
 
 <div align="center">
