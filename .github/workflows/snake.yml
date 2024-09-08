@@ -19,6 +19,8 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    environment:
+      name: production
     
     steps:
       - name: generate github-contribution-grid-snake.svg
@@ -36,4 +38,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
