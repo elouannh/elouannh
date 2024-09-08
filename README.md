@@ -82,63 +82,63 @@
 ###
 
 <br clear="both">
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg" width="700px">
-		<img alt="github-chart" src="/github-metrics.svg" width="700px">
+<div align="left">
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg" width="400px">
+		<source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg" width="400px">
+		<img alt="github-chart" src="/github-metrics.svg" width="400px">
 	</picture>
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.compact.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.compact.svg" width="700px">
-		<img alt="github-chart" src="/metrics.plugin.achievements.compact.svg" width="700px">
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.habits.charts.svg" width="400px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.habits.charts.svg" width="400px">
+		<img alt="github-chart" src="/metrics.plugin.habits.charts.svg" width="400px">
+	</picture>
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.languages.indepth.svg" width="400px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.languages.indepth.svg" width="400px">
+		<img alt="github-chart" src="/metrics.plugin.languages.indepth.svg" width="400px">
+	</picture>
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="400px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="400px">
+		<img alt="github-chart" src="/metrics.plugin.isocalendar.fullyear.svg" width="400px">
+	</picture>
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.habits.facts.svg" width="400px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.habits.facts.svg" width="400px">
+		<img alt="github-chart" src="/metrics.plugin.habits.facts.svg" width="400px">
+	</picture>
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.compact.svg" width="800px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.compact.svg" width="800px">
+		<img alt="github-chart" src="/metrics.plugin.achievements.compact.svg" width="800px">
 	</picture>
 	<tr>
-	    <td colspan="2" align="center">
+	    <td colspan="2" align="left">
 			<details>
 				<summary>More</summary>
-				<picture align="center">
-					<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.detailed.svg" width="700px">
-					<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.detailed.svg" width="700px">
-					<img alt="github-chart" src="/metrics.plugin.achievements.detailed.svg" width="700px">
+				<picture align="left">
+					<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.detailed.svg" width="500px">
+					<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.detailed.svg" width="500px">
+					<img alt="github-chart" src="/metrics.plugin.achievements.detailed.svg" width="500px">
 				</picture>
 			</details>
 	    </td>
 	</tr>
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.habits.facts.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.habits.facts.svg" width="700px">
-		<img alt="github-chart" src="/metrics.plugin.habits.facts.svg" width="700px">
-	</picture>
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.habits.charts.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.habits.charts.svg" width="700px">
-		<img alt="github-chart" src="/metrics.plugin.habits.charts.svg" width="700px">
-	</picture>
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="700px">
-		<img alt="github-chart" src="/metrics.plugin.isocalendar.fullyear.svg" width="700px">
-	</picture>
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.languages.indepth.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.languages.indepth.svg" width="700px">
-		<img alt="github-chart" src="/metrics.plugin.languages.indepth.svg" width="700px">
-	</picture>
 </div>
 
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="700px">
-		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="700px">
+<div align="left">
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="800px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="800px">
+		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="800px">
 	</picture>
 </div>
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/ea926dc9-b601-4521-a226-3bcdde42f4eb.svg" width="700px">
-		<img alt="wakatime-chart" src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="700px">
+<div align="left">
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="800px">
+		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/ea926dc9-b601-4521-a226-3bcdde42f4eb.svg" width="800px">
+		<img alt="wakatime-chart" src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="800px">
 	</picture>
 </div>
 
