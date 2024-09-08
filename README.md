@@ -128,43 +128,6 @@
 
 <div align="center">
 	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue-dark" width="700px">
-		<img alt="github-chart" src="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="700px">
-	</picture>
-</div>
-
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=elouannh&theme=vue&date_format=%5BY.%5Dn.j&card_width=700" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=elouannh&theme=vue-dark&date_format=%5BY.%5Dn.j&card_width=700" width="700px">
-		<img alt="github-streak" src="https://streak-stats.demolab.com?user=elouannh&theme=vue&date_format=%5BY.%5Dn.j&card_width=700" width="700px">
-	</picture>
-</div>
-
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" width="250px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue-dark" width="250px">
-		<img alt="github-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elouannh&langs_count=10&layout=compact&theme=vue" width="250px">
-	</picture>
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=10&layout=compact&theme=vue" width="450px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=10&layout=compact&theme=vue-dark" width="450px">
-		<img alt="wakatime-languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=10&layout=compact&theme=vue" width="450px">
-	</picture>
-</div>
-
-<div align="center">
-	<picture align="center">
-		<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app?username=elouannh&theme=flat&column=5&margin-w=10&margin-h=10" width="700px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=elouannh&theme=matrix&column=5&margin-w=10&margin-h=10" width="700px">
-		<img alt="trophies" src="https://github-profile-trophy.vercel.app?username=elouannh&theme=flat&column=5&margin-w=10&margin-h=10" width="700px">
-	</picture>
-</div>
-
-<div align="center">
-	<picture align="center">
 		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="700px">
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake-dark.svg" width="700px">
 		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="700px">
