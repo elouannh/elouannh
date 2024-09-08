@@ -88,6 +88,14 @@
 
 <div align="center">
 	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg" width="700px">
+		<img alt="github-chart" src="/github-metrics.svg" width="700px">
+	</picture>
+</div>
+
+<div align="center">
+	<picture align="center">
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="700px">
 		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue-dark" width="700px">
 		<img alt="github-chart" src="https://github-readme-stats.vercel.app/api?username=elouannh&show_icons=true&theme=vue" width="700px">
