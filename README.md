@@ -100,7 +100,7 @@
 	<tr>
 	    <td colspan="2" align="center">
 			<details>
-				<summary>Expend</summary>
+				<summary>More</summary>
 				<picture align="center">
 					<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.detailed.svg" width="700px">
 					<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.detailed.svg" width="700px">
