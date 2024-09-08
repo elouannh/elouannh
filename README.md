@@ -92,6 +92,11 @@
 		<source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg" width="700px">
 		<img alt="github-chart" src="/github-metrics.svg" width="700px">
 	</picture>
+	<picture align="center">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.compact.svg" width="700px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.compact.svg" width="700px">
+		<img alt="github-chart" src="/metrics.plugin.achievements.compact.svg" width="700px">
+	</picture>
 </div>
 
 <div align="center">
