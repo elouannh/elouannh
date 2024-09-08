@@ -11,18 +11,13 @@ on:
     - main
     
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    environment:
+    environment: 
       name: production
-    
+    permissions:
+      contents: write
     steps:
-      - name: generate metrics
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+      - uses: lowlighter/metrics@latest
         with:
-          base: <default-value>
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
