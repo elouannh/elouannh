@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.botmarket.ovh/Qf7nPGlCvybfS0f.jpg" width="800px" height="auto" />
+  <img src="https://media.botmarket.ovh/OjjnNtS35bLNTaL.jpg" width="1000px" height="auto" />
 </div>
 
 ###
@@ -17,6 +17,9 @@
 <h1 align="center">Hey there 👋</h1>
 <br clear="both">
 <h3 align="left">👩‍💻  About Me</h3>
+<div align="center">
+	<img src="https://media.botmarket.ovh/c34eNeJNSOfX4ce.png" width="1000px" />
+</div>
 
 ###
 
@@ -26,6 +29,9 @@
 
 <br clear="both">
 <h3 align="left">🛠 Language and tools</h3>
+<div align="center">
+	<img src="https://media.botmarket.ovh/c34eNeJNSOfX4ce.png" width="1000px" />
+</div>
 
 ###
 
