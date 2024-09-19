@@ -9,7 +9,7 @@
 <div align="center">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80"/>
 	<img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg"/>
-	<a href="https://wakatime.com/@ehosta"><img src="https://img.shields.io/badge/My_Wakatime-@ehosta-8261ad"></a>
+	<a href="https://wakatime.com/@ehosta" target="_blank"><img src="https://img.shields.io/badge/My_Wakatime-@ehosta-8261ad"></a>
 </div>
 
 ###
