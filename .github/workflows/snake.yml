@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 5 minutes hours
   schedule:
-    - cron: "*/30 * * * *" 
+    - cron: "0 */2 * * *"
   
   workflow_dispatch:
   
