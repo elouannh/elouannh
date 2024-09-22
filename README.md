@@ -115,6 +115,16 @@
 		<img alt="github-chart" src="/metrics.plugin.habits.facts.svg" width="400px">
 	</picture>
 	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.topics.svg" width="800px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.topics.svg" width="800px">
+		<img alt="github-chart" src="/metrics.plugin.topics.svg" width="800px">
+	</picture>
+	<picture align="left">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.stars.svg" width="800px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.stars.svg" width="800px">
+		<img alt="github-chart" src="/metrics.plugin.stars.svg" width="800px">
+	</picture>
+	<picture align="left">
 		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.compact.svg" width="800px">
 		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.compact.svg" width="800px">
 		<img alt="github-chart" src="/metrics.plugin.achievements.compact.svg" width="800px">
