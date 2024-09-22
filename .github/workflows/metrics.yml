@@ -88,4 +88,29 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_analysis_timeout: 60
 
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.contributors.contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_contributors: yes
+          plugin_contributors_contributions: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
 
