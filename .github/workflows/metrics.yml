@@ -90,16 +90,6 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.contributors.contributions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
-
-      - uses: lowlighter/metrics@latest
-        with:
           filename: metrics.plugin.topics.svg
           token: NOT_NEEDED
           base: ""
