@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.botmarket.ovh/OjjnNtS35bLNTaL.jpg" width="1000px" height="auto" />
+  <img src="https://media.botmarket.ovh/ZasRquW6Lr1Fvh1.jpg" width="1000px" height="auto" />
 </div>
 
 ###
