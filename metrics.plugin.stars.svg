@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RustCrypto/elliptic-curves</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of pure Rust elliptic curve implementations: NIST P-224, P-256, P-384, P-521, secp256k1, SM2</div>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-embedded/embedded-alloc</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A heap allocator for embedded systems</div>
