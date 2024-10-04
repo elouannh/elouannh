@@ -35,55 +35,7 @@
 
 ###
 
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="42" alt="sass-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="42" alt="angular-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="42" alt="vuejs-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="42" alt="svelte-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="42" alt="rust-logo"/>
-	<img width="1"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="c-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="bash-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="flask-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="42" alt="mongodb-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="42" alt="postgresql-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" alt="sqlite-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="42" alt="grafana-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="42" alt="jetbrains-logo"/>
-	<img width="1" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
-</div>
+<img alt="github-chart" src="https://skillicons.dev/icons?i=discord,bots,discordjs,nodejs,express,npm,js,ts,angular,svelte,vue,sass,css,html,py,flask,bash,c,cpp,rust,docker,git,github,gitlab,regex,sqlite,mongodb,postgres,unreal,vercel,postman,grafana,prometheus,obsidian,figma&theme=dark&perline=14">
 
 ###
 
