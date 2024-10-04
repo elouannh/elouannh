@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Elouann from Lyon.<br><br>- 🔭 I’m working as a freelance developer, a part-time job because I am a 42's school student.<br>- 📚 I'm currently learning Rust, Java and cryptocurrencies.<br>- ⚡ In my free time I keep coding and learning Japanese.<br>- 🎌 I am also a translator (Japanese to French) for the Renshuu learning app.<br>- 🦄 Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a></p>
+<p align="left">I'm Elouann from Lyon.<br><br>- 🔭 I’m working as a freelance developer, a part-time job because I am a 42's school student.<br>- 📚 I'm currently learning Rust, cryptocurrencies and C++.<br>- ⚡ In my free time I keep coding and learning Japanese.<br>- 🎌 I am also a translator (Japanese to French) for the Renshuu learning app.<br>- 🪸 I love open-source, so I am making as much as possible.<br>- 🦄 Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a></p>
 
 ###
 
