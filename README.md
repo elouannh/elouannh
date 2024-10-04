@@ -15,7 +15,16 @@
 <br clear="both">
 
 <h1 align="center">Hey there 👋</h1>
+
+<div align="center">
+	<img src="https://media.botmarket.ovh/26Rlaipd30zRdWH.png" width="40px"/>
+	<img src="https://media.botmarket.ovh/Zs02wjRAKIZpDCX.png" width="40px"/>
+	<img src="https://media.botmarket.ovh/58ixcUTc4JJqkU2.png" width="40px"/>
+	<img src="https://media.botmarket.ovh/IH3DqGKoXiMtvwV.png" width="40px"/>
+</div>
+
 <br clear="both">
+
 <h3 align="left">👩‍💻  About Me</h3>
 <div align="center">
 	<img src="https://media.botmarket.ovh/c34eNeJNSOfX4ce.png" width="1000px" />
