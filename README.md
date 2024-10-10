@@ -1,26 +1,8 @@
-<br clear="both">
-
-<div align="center">
-  <img src="https://media.botmarket.ovh/eXYphoO69nFRPUy.jpg" width="1000px" height="auto" />
-</div>
-
-<br clear="both">
-
+<h1 align="center">Hey there 👋</h1>
 <div align="center">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80"/>
 	<a href="https://wakatime.com/@ehosta"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg"/></a>
 	<a href="https://github.com/sponsors/elouannh"><img src="https://img.shields.io/badge/Sponsor_me-blue"/></a>
-</div>
-
-<br clear="both">
-
-<h1 align="center">Hey there 👋</h1>
-
-<div align="center">
-	<img src="https://media.botmarket.ovh/26Rlaipd30zRdWH.png" width="40px"/>
-	<img src="https://media.botmarket.ovh/Zs02wjRAKIZpDCX.png" width="40px"/>
-	<img src="https://media.botmarket.ovh/58ixcUTc4JJqkU2.png" width="40px"/>
-	<img src="https://media.botmarket.ovh/IH3DqGKoXiMtvwV.png" width="40px"/>
 </div>
 
 <br clear="both">
@@ -120,5 +102,12 @@
 		<source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@ehosta/ea926dc9-b601-4521-a226-3bcdde42f4eb.svg" width="800px">
 		<img alt="wakatime-chart" src="https://wakatime.com/share/@ehosta/12dba9d2-10de-4194-aaf5-bf61d5a0dcd7.svg" width="800px">
 	</picture>
+</div>
+
+<div align="left">
+	<img src="https://media.botmarket.ovh/26Rlaipd30zRdWH.png" width="40px"/>
+	<img src="https://media.botmarket.ovh/Zs02wjRAKIZpDCX.png" width="40px"/>
+	<img src="https://media.botmarket.ovh/58ixcUTc4JJqkU2.png" width="40px"/>
+	<img src="https://media.botmarket.ovh/IH3DqGKoXiMtvwV.png" width="40px"/>
 </div>
 
