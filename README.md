@@ -29,6 +29,11 @@
 
 <br clear="both">
 
+<tr>
+<td colspan="2" align="left">
+<details>
+<summary>(Expend)</summary>
+ 
 <div align="left">
 	<picture align="left">
 		<source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg" width="600px">
@@ -119,3 +124,6 @@
 	<img src="https://media.botmarket.ovh/IH3DqGKoXiMtvwV.png" width="40px"/>
 </div>
 
+</details>
+</td>
+</tr>
