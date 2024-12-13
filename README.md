@@ -1,22 +1,21 @@
-<h1 align="center">Hey there 👋</h1>
-<div align="center">
+<div align="left">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=elouannh.elouannh&left_color=mediumpurple&right_color=mediumpurple&left_text=%F0%9F%91%80"/>
 	<a href="https://wakatime.com/@ehosta"><img src="https://wakatime.com/badge/user/1f18b09f-6cf2-4aa1-a256-b88b4b5616fe.svg"/></a>
 	<a href="https://github.com/sponsors/elouannh"><img src="https://img.shields.io/badge/Sponsor_me-blue"/></a>
-	<a href="https://profile.intra.42.fr/users/ehosta">
-		<img align="center" src="https://badge.mediaplus.ma/darkgray/ehosta?1337Badge=off&UM6P=off" alt="Cursus de Ehosta" />
 </div>
 
-<br clear="both">
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="left">Hey there 👋</h1>
 <div align="center">
 	<img src="https://media.botmarket.ovh/c34eNeJNSOfX4ce.png" width="1000px" />
 </div>
 
 <br clear="both">
 
-<p align="left">I'm Elouann from Lyon.<br><br>- 🔭 I’m working as a freelance developer, a part-time job because I am a 42's school student.<br>- 📚 I'm currently learning low-level and cryptocurrencies.<br>- ⚡ In my free time I keep coding and learning Japanese.<br>- 🎌 I am also a translator (Japanese/English to French) for the Renshuu learning app.<br>- 🪸 I love open-source, so I am making some as much as possible.<br>- 🦄 Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a></p>
+<p align="left">- 📚 I'm currently learning low-level programming and cryptocurrencies.<br>- ⚡ In my free time I keep coding and learning Japanese.<br>- 🎌 I am also a translator (Japanese/English to French) for the Renshuu learning app.<br>- 🪸 I love open-source, so I am making some as much as a hobby.<br>- 🦄 Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a></p>
+
+<a href="https://profile.intra.42.fr/users/ehosta">
+	<img align="center" src="https://badge.mediaplus.ma/darkgray/ehosta?1337Badge=off&UM6P=off" alt="Cursus de Ehosta" />
+</a>
 
 <br clear="both">
 
@@ -34,7 +33,7 @@
 <tr>
 <td colspan="2" align="left">
 <details>
-<summary>(Expend)</summary>
+<summary>Some details</summary>
  
 <div align="left">
 	<picture align="left">
