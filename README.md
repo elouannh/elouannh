@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<p align="left">- 📚 I'm currently learning low-level programming and cryptocurrencies.<br>- ⚡ In my free time I keep coding and learning Japanese.<br>- 🎌 I am also a translator (Japanese/English to French) for the Renshuu learning app.<br>- 🪸 I love open-source, so I am making some as much as a hobby.<br>- 🦄 Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a></p>
+<p align="left">- 📚 I'm currently learning low-level programming and cryptocurrencies.<br>- ⚡ In my free time I keep coding and learning Japanese.<br>- 🎌 I am also a translator (Japanese/English to French) for the Renshuu learning app.<br>- 🪸 I love open-source, so I am making some as a hobby.<br>- 🦄 Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a></p>
 
 <a href="https://profile.intra.42.fr/users/ehosta">
 	<img align="center" src="https://badge.mediaplus.ma/darkgray/ehosta?1337Badge=off&UM6P=off" alt="Cursus de Ehosta" />
