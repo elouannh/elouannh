@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<img alt="github-chart" src="https://skillicons.dev/icons?i=bash,c,cpp,rust,docker,git,discord,bots,discordjs,nodejs,express,npm,js,ts,vue,nuxt,angular,svelte,sass,css,html,py,flask,github,gitlab,regex,sqlite,mongodb,postgres,unreal,vercel,postman,grafana,prometheus,obsidian,figma&theme=dark&perline=14">
+<img alt="github-chart" src="https://skillicons.dev/icons?i=bash,c,cpp,docker,git,bots,nodejs,ts,vue,nuxt,sass,css,html,py,flask,sqlite,mongodb,postgres,grafana,figma&theme=dark&perline=14">
 
 <br clear="both">
 
