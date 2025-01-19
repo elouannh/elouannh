@@ -8,22 +8,16 @@
 	<img src="https://media.botmarket.ovh/c34eNeJNSOfX4ce.png" width="1000px" />
 </div>
 
-<br clear="both">
-
 <p align="left">I am a 42 School student, that's all.<br>- 🦄 Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a></p>
 
 <a href="https://profile.intra.42.fr/users/ehosta">
 	<img align="center" src="https://badge.mediaplus.ma/darkgray/ehosta?1337Badge=off&UM6P=off" alt="Cursus de Ehosta" />
 </a>
 
-<br clear="both">
-
-<h3 align="left">🛠 Language and tools</h3>
 <div align="center">
 	<img src="https://media.botmarket.ovh/c34eNeJNSOfX4ce.png" width="1000px" />
 </div>
 
-<br clear="both">
 
 <img alt="github-chart" src="https://skillicons.dev/icons?i=bash,c,cpp,docker,git,bots,nodejs,ts,vue,nuxt,sass,css,html,py,flask,sqlite,mongodb,postgres,grafana,figma&theme=dark&perline=14">
 
