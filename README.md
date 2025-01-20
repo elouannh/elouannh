@@ -16,7 +16,7 @@
 
 ---
 
-<img alt="github-chart" src="https://skillicons.dev/icons?i=bash,c,cpp,docker,git,bots,nodejs,ts,vue,nuxt,sass,css,html,py,flask,sqlite,mongodb,postgres,grafana,figma&theme=dark&perline=14">
+<img alt="github-chart" src="https://skillicons.dev/icons?i=bash,c,cpp,docker,git,bots,nodejs,ts,vue,sass,py,flask,mongodb,postgres&theme=dark&perline=14">
 <br clear="both">
 <tr>
 <td colspan="2" align="left">
