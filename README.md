@@ -22,27 +22,27 @@
 <summary>(Some details)</summary>
 <div align="left">
 	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-metrics.svg" width="600px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/github-metrics.svg" width="600px">
-		<img alt="github-chart" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-metrics.svg" width="600px">
+		<source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg" width="600px">
+		<source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg" width="600px">
+		<img alt="github-chart" src="/github-metrics.svg" width="600px">
 	</picture>
 	<br>
 	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.isocalendar.fullyear.svg" width="600px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.isocalendar.fullyear.svg" width="600px">
-		<img alt="github-chart" src="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.isocalendar.fullyear.svg" width="600px">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="600px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="600px">
+		<img alt="github-chart" src="/metrics.plugin.isocalendar.fullyear.svg" width="600px">
 	</picture>
 	<br>
 	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.languages.indepth.svg" width="600px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.languages.indepth.svg" width="600px">
-		<img alt="github-chart" src="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.languages.indepth.svg" width="600px">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.languages.indepth.svg" width="600px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.languages.indepth.svg" width="600px">
+		<img alt="github-chart" src="/metrics.plugin.languages.indepth.svg" width="600px">
 	</picture>
 	<br>
 	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.achievements.compact.svg" width="600px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.achievements.compact.svg" width="600px">
-		<img alt="github-chart" src="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.achievements.compact.svg" width="600px">
+		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.compact.svg" width="600px">
+		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.compact.svg" width="600px">
+		<img alt="github-chart" src="/metrics.plugin.achievements.compact.svg" width="600px">
 	</picture>
 </div>
 <br clear="both">
