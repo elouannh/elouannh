@@ -40,12 +40,6 @@
 	</picture>
 	<br>
 	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.habits.facts.svg" width="400px">
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.habits.facts.svg" width="400px">
-		<img alt="github-chart" src="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.habits.facts.svg" width="400px">
-	</picture>
-	<br>
-	<picture align="left">
 		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.achievements.compact.svg" width="600px">
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.achievements.compact.svg" width="600px">
 		<img alt="github-chart" src="https://raw.githubusercontent.com/elouannh/elouannh/output/metrics.plugin.achievements.compact.svg" width="600px">
