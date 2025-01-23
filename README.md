@@ -16,6 +16,10 @@
 
 <img alt="github-chart" src="https://skillicons.dev/icons?i=bash,c,cpp,docker,git,bots,nodejs,ts,vue,sass,py,flask,mongodb,postgres&theme=dark&perline=14">
 <br clear="both">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <tr>
 <td colspan="2" align="left">
 <details>
