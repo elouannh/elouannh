@@ -14,29 +14,10 @@
 
 ---
 
-<img alt="github-chart" src="https://skillicons.dev/icons?i=bash,c,cpp,docker,git,bots,nodejs,ts,vue,sass,py,flask,mongodb,postgres&theme=dark&perline=14">
-<br clear="both">
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<tr>
-<td colspan="2" align="left">
-<details>
-<summary>(Some details)</summary>
 <div align="left">
-	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="/github-metrics.svg" width="600px">
-		<source media="(prefers-color-scheme: dark)" srcset="/github-metrics.svg" width="600px">
-		<img alt="github-chart" src="/github-metrics.svg" width="600px">
-	</picture>
-	<br>
-	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="600px">
-		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.isocalendar.fullyear.svg" width="600px">
-		<img alt="github-chart" src="/metrics.plugin.isocalendar.fullyear.svg" width="600px">
-	</picture>
-	<br>
 	<picture align="left">
 		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.languages.indepth.svg" width="600px">
 		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.languages.indepth.svg" width="600px">
@@ -57,6 +38,3 @@
 		<img alt="github-snake" src="https://raw.githubusercontent.com/elouannh/elouannh/output/github-contribution-grid-snake.svg" width="800px">
 	</picture>
 </div>
-</details>
-</td>
-</tr>
