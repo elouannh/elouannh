@@ -17,19 +17,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<div align="left">
-	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.languages.indepth.svg" width="600px">
-		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.languages.indepth.svg" width="600px">
-		<img alt="github-chart" src="/metrics.plugin.languages.indepth.svg" width="600px">
-	</picture>
-	<br>
-	<picture align="left">
-		<source media="(prefers-color-scheme: light)" srcset="/metrics.plugin.achievements.compact.svg" width="600px">
-		<source media="(prefers-color-scheme: dark)" srcset="/metrics.plugin.achievements.compact.svg" width="600px">
-		<img alt="github-chart" src="/metrics.plugin.achievements.compact.svg" width="600px">
-	</picture>
-</div>
 <br clear="both">
 <div align="left">
 	<picture align="left">
