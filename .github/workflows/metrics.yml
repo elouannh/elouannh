@@ -34,14 +34,6 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      - uses: lowlighter/metrics@latest
-        with:
           filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -51,13 +43,5 @@ jobs:
           plugin_languages_other: no
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_analysis_timeout: 60
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_languages_analysis_timeout: 6
 
