@@ -3,8 +3,6 @@
 	I am a 42 School student. Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a><br>
 </p>
 
----
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C062%20hrs%2019%20mins-blue)
 
