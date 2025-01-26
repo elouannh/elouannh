@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          LOCALE: "ja_JP"
           COMMIT_BY_ME: "False"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
