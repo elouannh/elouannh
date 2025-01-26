@@ -1,6 +1,6 @@
-<h1 align="left">Hello there 👋</h1>
+<h1 align="left">こんにちは 👋</h1>
 <p align="left">
-	I am a 42 School student. Reach me at <a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr.</a><br>
+	私は42の学校の生徒です。<a href="mailto:ehosta@student.42lyon.fr">ehosta@student.42lyon.fr</a> にてご連絡下さい。<br>
 </p>
 
 <!--START_SECTION:waka-->
