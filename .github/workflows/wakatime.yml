@@ -11,7 +11,7 @@ jobs:
     name: readme update
     runs-on: ubuntu-latest
     steps:
-      - uses: elouannh/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           LOCALE: "ja_JP"
           COMMIT_BY_ME: "False"
